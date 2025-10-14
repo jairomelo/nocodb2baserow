@@ -16,8 +16,7 @@ import os
 import json
 import time
 import argparse
-from datetime import datetime
-from typing import Dict, List, Optional, Tuple, Any
+from typing import Dict, List, Optional, Any
 import dotenv
 
 # Import our custom components
@@ -401,22 +400,10 @@ class CamillaMigrationManager:
         """Transform a record's core data (excluding relationships)"""
         cleaned_data = {}
         
-        # Skip fields to avoid - these are relationship fields or metadata
+        # Skip only essential metadata fields - relationships are handled separately
         skip_fields = {
-            'CreatedAt', 'UpdatedAt', 'Id', 'roles', 'transactions', 'related_events',
-            'actions-timelines', 'discursive_oils', 'entities', 'is-part-of',
-            'Infrastructure', 'concessions-grantee', 'concessions-granter', 'locations',
-            'infrastructures', 'people', 'primary-source', 'author-entity',
-            'parties_involved', 'People Involved', 'Writings about this', 'concessions',
-            'action-timeline', 'infrastructure', 'ecosystem-consequence', 'source',
-            'legal basis', 'people-involved', 'entities-involved', 'related_people',
-            'discussions-around', 'ecosystem_consequences', 'location (s)', 'entities',
-            'licenses', 'related_events', 'actions- timeline', 'Affiliated-entity',
-            'discursive_oils', 'exploration-drillings', 
-            'exploration-productions', 'granted_to', 'granted_by', 'convention',
-            'infrastructure_linked'
+            'CreatedAt', 'UpdatedAt', 'Id'  # NocoDB metadata that shouldn't be migrated
         }
-        # Note: Removed 'location' from skip_fields as it's a data field, not a relationship
         
         for json_field, value in record.items():
             # Skip relationships and metadata fields
@@ -428,14 +415,34 @@ class CamillaMigrationManager:
             # Check if we have a mapping for this field
             if json_field in field_mapping:
                 field_id = field_mapping[json_field]
+                
+                # Get field info to validate type compatibility
+                schema = self.table_schemas.get(table_name)
+                if schema:
+                    # Extract field ID number for lookup
+                    field_id_number = int(field_id.replace('field_', ''))
+                    field_info = next((f for f in schema.fields if f.id == field_id_number), None)
+                    
+                    # Skip if trying to send non-relationship data to link fields
+                    if field_info and field_info.type == 'link_row':
+                        continue  # Skip - relationships are handled separately
+                
             else:
                 # Try automatic mapping for unmapped fields
                 schema = self.table_schemas.get(table_name)
                 if schema:
                     field_info = schema.get_field_by_name(json_field)
                     if field_info:
+                        # Skip link fields from automatic mapping
+                        if field_info.type == 'link_row':
+                            continue
                         field_id = f"field_{field_info.id}"
                     else:
+                        # Skip numeric reference fields that look like NocoDB metadata
+                        if (isinstance(value, (int, str)) and 
+                            str(value).isdigit() and 
+                            any(ref_word in json_field.lower() for ref_word in ['people', 'role', 'entity', 'source', 'infrastructure', 'location'])):
+                            continue
                         continue  # Skip unmapped fields
                 else:
                     continue
