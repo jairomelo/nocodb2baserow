@@ -1,0 +1,1792 @@
+[
+    {
+        "Id": 1,
+        "location": "Algeria",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "country",
+        "CreatedAt": "2025-04-18 16:00:18+00:00",
+        "UpdatedAt": "2025-06-27 01:52:33+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 10,
+        "is-part-of-": 0,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 1,
+                "location_id": 34
+            },
+            {
+                "location1_id": 1,
+                "location_id": 119
+            },
+            {
+                "location1_id": 1,
+                "location_id": 120
+            },
+            {
+                "location1_id": 1,
+                "location_id": 133
+            },
+            {
+                "location1_id": 1,
+                "location_id": 111
+            },
+            {
+                "location1_id": 1,
+                "location_id": 113
+            },
+            {
+                "location1_id": 1,
+                "location_id": 116
+            },
+            {
+                "location1_id": 1,
+                "location_id": 166
+            },
+            {
+                "location1_id": 1,
+                "location_id": 215
+            },
+            {
+                "location1_id": 1,
+                "location_id": 218
+            }
+        ]
+    },
+    {
+        "Id": 34,
+        "location": "Algers",
+        "notes": null,
+        "latitude (N)": 36.7538,
+        "longitude (E)": 3.0588,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-04-25 22:12:36+00:00",
+        "UpdatedAt": "2025-06-27 02:01:11+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 1,
+                "location_id": 34
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 35,
+        "location": "El Borma",
+        "notes": null,
+        "latitude (N)": 31.5951,
+        "longitude (E)": 9.1597,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-04-25 22:12:59+00:00",
+        "UpdatedAt": "2025-07-07 18:04:43+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 35,
+                "infrastructure_id": 1
+            },
+            {
+                "location_id": 35,
+                "infrastructure_id": 34
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 2,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 37,
+                "location_id": 35
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 36,
+        "location": "Tunisia",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "country",
+        "CreatedAt": "2025-04-25 22:14:14+00:00",
+        "UpdatedAt": "2025-06-27 01:52:58+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 6,
+        "is-part-of-": 0,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 36,
+                "location_id": 37
+            },
+            {
+                "location1_id": 36,
+                "location_id": 100
+            },
+            {
+                "location1_id": 36,
+                "location_id": 105
+            },
+            {
+                "location1_id": 36,
+                "location_id": 118
+            },
+            {
+                "location1_id": 36,
+                "location_id": 199
+            },
+            {
+                "location1_id": 36,
+                "location_id": 203
+            }
+        ]
+    },
+    {
+        "Id": 37,
+        "location": "Tataouine",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-04-25 22:14:25+00:00",
+        "UpdatedAt": "2025-06-27 01:50:25+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 36,
+                "location_id": 37
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 37,
+                "location_id": 35
+            }
+        ]
+    },
+    {
+        "Id": 67,
+        "location": "Italy",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "country",
+        "CreatedAt": "2025-06-08 23:04:48+00:00",
+        "UpdatedAt": "2025-06-20 01:20:07+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 0,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 67,
+                "location_id": 68
+            }
+        ]
+    },
+    {
+        "Id": 68,
+        "location": "Sicily",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-06-08 23:04:53+00:00",
+        "UpdatedAt": "2025-06-27 01:39:03+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 2,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 67,
+                "location_id": 68
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 68,
+                "location_id": 69
+            },
+            {
+                "location1_id": 68,
+                "location_id": 202
+            }
+        ]
+    },
+    {
+        "Id": 69,
+        "location": "Gela",
+        "notes": null,
+        "latitude (N)": 37.0738,
+        "longitude (E)": 14.2411,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-08 23:05:05+00:00",
+        "UpdatedAt": "2025-07-07 18:22:07+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 69,
+                "infrastructure_id": 68
+            },
+            {
+                "location_id": 69,
+                "infrastructure_id": 106
+            },
+            {
+                "location_id": 69,
+                "infrastructure_id": 166
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 2,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 68,
+                "location_id": 69
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 70,
+        "location": "Skhira",
+        "notes": null,
+        "latitude (N)": 34.2976,
+        "longitude (E)": 10.0751,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-08 23:14:11+00:00",
+        "UpdatedAt": "2025-06-27 02:01:11+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 70,
+                "infrastructure_id": 34
+            },
+            {
+                "location_id": 70,
+                "infrastructure_id": 69
+            },
+            {
+                "location_id": 70,
+                "infrastructure_id": 173
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 3,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 100,
+                "location_id": 70
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 100,
+        "location": "Gabes",
+        "notes": null,
+        "latitude (N)": 33.8881,
+        "longitude (E)": 10.0975,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-06-16 23:35:03+00:00",
+        "UpdatedAt": "2025-06-27 01:53:40+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 100,
+                "infrastructure_id": 111
+            }
+        ],
+        "roles": 0,
+        "locations": 5,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 36,
+                "location_id": 100
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 100,
+                "location_id": 70
+            },
+            {
+                "location1_id": 100,
+                "location_id": 101
+            },
+            {
+                "location1_id": 100,
+                "location_id": 102
+            },
+            {
+                "location1_id": 100,
+                "location_id": 104
+            },
+            {
+                "location1_id": 100,
+                "location_id": 134
+            }
+        ]
+    },
+    {
+        "Id": 101,
+        "location": "Matmata",
+        "notes": null,
+        "latitude (N)": 33.4552,
+        "longitude (E)": 9.7679,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-16 23:35:34+00:00",
+        "UpdatedAt": "2025-07-07 17:31:42+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 101,
+                "infrastructure_id": 100
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 100,
+                "location_id": 101
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 102,
+        "location": "\tM\u00e9denine",
+        "notes": null,
+        "latitude (N)": 33.3399,
+        "longitude (E)": 10.4959,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-16 23:38:45+00:00",
+        "UpdatedAt": "2025-06-27 02:01:11+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 100,
+                "location_id": 102
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 103,
+        "location": "Zarzis",
+        "notes": "Part of coastal concessions",
+        "latitude (N)": 33.5041,
+        "longitude (E)": 11.0881,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-16 23:38:50+00:00",
+        "UpdatedAt": "2025-07-07 17:31:35+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 103,
+                "infrastructure_id": 101
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 118,
+                "location_id": 103
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 104,
+        "location": "El Hammah ",
+        "notes": null,
+        "latitude (N)": 33.8859,
+        "longitude (E)": 9.7951,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-16 23:44:04+00:00",
+        "UpdatedAt": "2025-07-07 17:31:53+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 104,
+                "infrastructure_id": 104
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 100,
+                "location_id": 104
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 105,
+        "location": "Bizerte",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-06-17 16:34:14+00:00",
+        "UpdatedAt": "2025-06-27 01:50:35+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 105,
+                "infrastructure_id": 105
+            }
+        ],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 36,
+                "location_id": 105
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 105,
+                "location_id": 106
+            }
+        ]
+    },
+    {
+        "Id": 106,
+        "location": "Bizerte",
+        "notes": null,
+        "latitude (N)": 37.2768,
+        "longitude (E)": 9.8642,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-17 16:34:18+00:00",
+        "UpdatedAt": "2025-06-27 02:01:11+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 105,
+                "location_id": 106
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 107,
+        "location": "In Amenas",
+        "notes": null,
+        "latitude (N)": 28.0385,
+        "longitude (E)": 9.5764,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-17 18:04:05+00:00",
+        "UpdatedAt": "2025-06-27 02:01:11+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 2,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 119,
+                "location_id": 107
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 107,
+                "location_id": 109
+            },
+            {
+                "location1_id": 107,
+                "location_id": 108
+            }
+        ]
+    },
+    {
+        "Id": 108,
+        "location": "Zarzaitine",
+        "notes": null,
+        "latitude (N)": 28.0867,
+        "longitude (E)": 9.7855,
+        "admin_level_country": "admin_level_4",
+        "CreatedAt": "2025-06-17 18:04:29+00:00",
+        "UpdatedAt": "2025-06-27 01:58:54+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 108,
+                "infrastructure_id": 107
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 107,
+                "location_id": 108
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 109,
+        "location": "Edjeleh",
+        "notes": null,
+        "latitude (N)": 27.7244,
+        "longitude (E)": 9.881,
+        "admin_level_country": "admin_level_4",
+        "CreatedAt": "2025-06-19 00:08:32+00:00",
+        "UpdatedAt": "2025-07-07 17:32:07+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 109,
+                "infrastructure_id": 108
+            },
+            {
+                "location_id": 109,
+                "infrastructure_id": 111
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 107,
+                "location_id": 109
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 110,
+        "location": "Mansoura",
+        "notes": null,
+        "latitude (N)": 36.0858,
+        "longitude (E)": 11.1235,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-20 00:37:34+00:00",
+        "UpdatedAt": "2025-07-09 00:01:08+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 120,
+                "location_id": 110
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 111,
+        "location": "Ourgla",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-06-20 00:38:08+00:00",
+        "UpdatedAt": "2025-06-27 01:51:06+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 2,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 1,
+                "location_id": 111
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 111,
+                "location_id": 121
+            },
+            {
+                "location1_id": 111,
+                "location_id": 135
+            }
+        ]
+    },
+    {
+        "Id": 112,
+        "location": "Hassi Messaoud",
+        "notes": null,
+        "latitude (N)": 32,
+        "longitude (E)": 6,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-20 00:38:45+00:00",
+        "UpdatedAt": "2025-07-22 21:37:05+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 112,
+                "infrastructure_id": 112
+            },
+            {
+                "location_id": 112,
+                "infrastructure_id": 183
+            }
+        ],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 2,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 135,
+                "location_id": 112
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 112,
+                "location_id": 115
+            }
+        ]
+    },
+    {
+        "Id": 113,
+        "location": "Laghouat",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-06-20 00:41:50+00:00",
+        "UpdatedAt": "2025-06-27 01:56:25+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 1,
+                "location_id": 113
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 113,
+                "location_id": 114
+            }
+        ]
+    },
+    {
+        "Id": 114,
+        "location": "Hassi R'Mel",
+        "notes": null,
+        "latitude (N)": 33,
+        "longitude (E)": 3,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-20 00:41:53+00:00",
+        "UpdatedAt": "2025-07-22 20:43:46+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 114,
+                "infrastructure_id": 113
+            },
+            {
+                "location_id": 114,
+                "infrastructure_id": 180
+            },
+            {
+                "location_id": 114,
+                "infrastructure_id": 182
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 3,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 113,
+                "location_id": 114
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 115,
+        "location": "Haoudh el Hamra",
+        "notes": null,
+        "latitude (N)": 32,
+        "longitude (E)": 6,
+        "admin_level_country": "admin_level_4",
+        "CreatedAt": "2025-06-20 00:54:05+00:00",
+        "UpdatedAt": "2025-06-27 01:57:03+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 115,
+                "infrastructure_id": 114
+            },
+            {
+                "location_id": 115,
+                "infrastructure_id": 187
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 2,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 112,
+                "location_id": 115
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 116,
+        "location": "Bejaia",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-06-20 00:57:35+00:00",
+        "UpdatedAt": "2025-06-27 01:57:56+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 1,
+                "location_id": 116
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 116,
+                "location_id": 117
+            }
+        ]
+    },
+    {
+        "Id": 117,
+        "location": "Bejaia",
+        "notes": null,
+        "latitude (N)": 37,
+        "longitude (E)": 5,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-20 00:58:22+00:00",
+        "UpdatedAt": "2025-06-27 02:01:11+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 117,
+                "infrastructure_id": 114
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 116,
+                "location_id": 117
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 118,
+        "location": "M\u00e9denine",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-06-20 01:14:48+00:00",
+        "UpdatedAt": "2025-07-01 00:55:07+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 118,
+                "infrastructure_id": 133
+            }
+        ],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 36,
+                "location_id": 118
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 118,
+                "location_id": 103
+            }
+        ]
+    },
+    {
+        "Id": 119,
+        "location": "Illizi",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-06-20 01:24:53+00:00",
+        "UpdatedAt": "2025-06-27 01:38:53+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 2,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 1,
+                "location_id": 119
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 119,
+                "location_id": 107
+            },
+            {
+                "location1_id": 119,
+                "location_id": 136
+            }
+        ]
+    },
+    {
+        "Id": 120,
+        "location": "Bordj Bou Arr\u00e9ridj",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-06-20 01:27:47+00:00",
+        "UpdatedAt": "2025-06-27 01:38:53+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 1,
+                "location_id": 120
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 120,
+                "location_id": 110
+            }
+        ]
+    },
+    {
+        "Id": 121,
+        "location": "Ourgla",
+        "notes": null,
+        "latitude (N)": 31.9527,
+        "longitude (E)": 5.3335,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-20 01:28:52+00:00",
+        "UpdatedAt": "2025-07-09 00:00:38+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 111,
+                "location_id": 121
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 133,
+        "location": "Algiers Province",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-06-27 01:49:48+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 1,
+                "location_id": 133
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 134,
+        "location": "Gabes",
+        "notes": null,
+        "latitude (N)": 33.8881,
+        "longitude (E)": 10.0975,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-06-27 01:53:28+00:00",
+        "UpdatedAt": "2025-07-09 00:00:20+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 100,
+                "location_id": 134
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 135,
+        "location": "Hassi Messaoud District",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_2",
+        "CreatedAt": "2025-06-27 01:55:35+00:00",
+        "UpdatedAt": "2025-06-27 01:55:57+00:00",
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 111,
+                "location_id": 135
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 135,
+                "location_id": 112
+            }
+        ]
+    },
+    {
+        "Id": 136,
+        "location": "In Amenas District",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_2",
+        "CreatedAt": "2025-06-27 02:00:50+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 119,
+                "location_id": 136
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 136,
+                "location_id": 221
+            }
+        ]
+    },
+    {
+        "Id": 166,
+        "location": "Tamanrasset",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-07-01 00:43:10+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 1,
+                "location_id": 166
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 166,
+                "location_id": 167
+            }
+        ]
+    },
+    {
+        "Id": 167,
+        "location": "In Amguel",
+        "notes": null,
+        "latitude (N)": 23.6911,
+        "longitude (E)": 5.1511,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-07-01 00:45:06+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 166,
+                "location_id": 167
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 167,
+                "location_id": 168
+            }
+        ]
+    },
+    {
+        "Id": 168,
+        "location": "In Ekker",
+        "notes": null,
+        "latitude (N)": 24.0225,
+        "longitude (E)": 5.0813,
+        "admin_level_country": "admin_level_4",
+        "CreatedAt": "2025-07-01 00:45:37+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 168,
+                "infrastructure_id": 116
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 167,
+                "location_id": 168
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 199,
+        "location": "Kebili Governorate",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-07-07 17:36:51+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 36,
+                "location_id": 199
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 199,
+                "location_id": 200
+            }
+        ]
+    },
+    {
+        "Id": 200,
+        "location": "Jemna ",
+        "notes": null,
+        "latitude (N)": 33.5733,
+        "longitude (E)": 9.0184,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-07-07 17:37:13+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 199,
+                "location_id": 200
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 201,
+        "location": "Djebel Daouiaia",
+        "notes": "Alternate names like \"Djebel Daouaia\" or \u201cJabal Daw\u0101yah\u201d",
+        "latitude (N)": 33.6067,
+        "longitude (E)": 9.4597,
+        "admin_level_country": "admin_level_4",
+        "CreatedAt": "2025-07-07 17:37:36+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 0,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 202,
+        "location": "Gagliano",
+        "notes": null,
+        "latitude (N)": 39.8453,
+        "longitude (E)": 18.3654,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-07-07 18:21:49+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 202,
+                "infrastructure_id": 166
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 68,
+                "location_id": 202
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 203,
+        "location": "Kasserine Governorate",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-07-08 22:51:23+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 3,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 36,
+                "location_id": 203
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 203,
+                "location_id": 204
+            },
+            {
+                "location1_id": 203,
+                "location_id": 205
+            },
+            {
+                "location1_id": 203,
+                "location_id": 208
+            }
+        ]
+    },
+    {
+        "Id": 204,
+        "location": "Djebel Douleb",
+        "notes": null,
+        "latitude (N)": 35.3822,
+        "longitude (E)": 8.8992,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-07-08 22:51:44+00:00",
+        "UpdatedAt": "2025-07-08 23:52:51+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 204,
+                "infrastructure_id": 169
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 203,
+                "location_id": 204
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 205,
+        "location": "Sbeitla Delegation",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_2",
+        "CreatedAt": "2025-07-08 23:37:28+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 203,
+                "location_id": 205
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 205,
+                "location_id": 206
+            }
+        ]
+    },
+    {
+        "Id": 206,
+        "location": "Semama Imada",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-07-08 23:37:31+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 205,
+                "location_id": 206
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 206,
+                "location_id": 207
+            }
+        ]
+    },
+    {
+        "Id": 207,
+        "location": "Djebel Semmama",
+        "notes": null,
+        "latitude (N)": 35.318,
+        "longitude (E)": 8.8523,
+        "admin_level_country": "admin_level_4",
+        "CreatedAt": "2025-07-08 23:38:22+00:00",
+        "UpdatedAt": "2025-07-08 23:52:40+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 207,
+                "infrastructure_id": 170
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 206,
+                "location_id": 207
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 208,
+        "location": "Feriana",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_2",
+        "CreatedAt": "2025-07-08 23:41:39+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 203,
+                "location_id": 208
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 208,
+                "location_id": 209
+            }
+        ]
+    },
+    {
+        "Id": 209,
+        "location": "Djebel Tamesmida",
+        "notes": null,
+        "latitude (N)": 35.0999,
+        "longitude (E)": 8.3816,
+        "admin_level_country": "admin_level_4",
+        "CreatedAt": "2025-07-08 23:42:51+00:00",
+        "UpdatedAt": "2025-07-08 23:52:32+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 209,
+                "infrastructure_id": 171
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 208,
+                "location_id": 209
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 210,
+        "location": "Sfax Governorate",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-07-10 21:15:35+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 2,
+        "is-part-of-": 0,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 210,
+                "location_id": 211
+            },
+            {
+                "location1_id": 210,
+                "location_id": 213
+            }
+        ]
+    },
+    {
+        "Id": 211,
+        "location": "Menzel Chaker Delegation",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_2",
+        "CreatedAt": "2025-07-10 21:15:38+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 210,
+                "location_id": 211
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 212,
+        "location": "Sidi Litaiem",
+        "notes": null,
+        "latitude (N)": 345648,
+        "longitude (E)": 103025,
+        "admin_level_country": "admin_level_4",
+        "CreatedAt": "2025-07-10 21:16:22+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 212,
+                "infrastructure_id": 173
+            },
+            {
+                "location_id": 212,
+                "infrastructure_id": 174
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 0,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 2,
+        "_nc_m2m_location_locations1": [],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 213,
+        "location": "Kerkennah Delegation",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_2",
+        "CreatedAt": "2025-07-10 22:43:29+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 210,
+                "location_id": 213
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 213,
+                "location_id": 214
+            }
+        ]
+    },
+    {
+        "Id": 214,
+        "location": "Sidi Baharat",
+        "notes": "Offshore",
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_4",
+        "CreatedAt": "2025-07-10 22:43:52+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 214,
+                "infrastructure_id": 176
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 213,
+                "location_id": 214
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 215,
+        "location": "Oran Province",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-07-22 20:40:12+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 1,
+                "location_id": 215
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 215,
+                "location_id": 216
+            }
+        ]
+    },
+    {
+        "Id": 216,
+        "location": "Arzew District",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_2",
+        "CreatedAt": "2025-07-22 20:40:16+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 215,
+                "location_id": 216
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 216,
+                "location_id": 217
+            }
+        ]
+    },
+    {
+        "Id": 217,
+        "location": "Arzew",
+        "notes": null,
+        "latitude (N)": 35.8541,
+        "longitude (E)": 0.3097,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-07-22 20:40:41+00:00",
+        "UpdatedAt": "2025-07-22 20:42:28+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 217,
+                "infrastructure_id": 179
+            },
+            {
+                "location_id": 217,
+                "infrastructure_id": 180
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 2,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 216,
+                "location_id": 217
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 218,
+        "location": "Skikda Wilaya",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_1",
+        "CreatedAt": "2025-07-22 20:45:01+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 1,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 1,
+                "location_id": 218
+            }
+        ],
+        "_nc_m2m_location_locations": [
+            {
+                "location1_id": 218,
+                "location_id": 219
+            }
+        ]
+    },
+    {
+        "Id": 219,
+        "location": "Skikda District",
+        "notes": null,
+        "latitude (N)": null,
+        "longitude (E)": null,
+        "admin_level_country": "admin_level_2",
+        "CreatedAt": "2025-07-22 20:45:04+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 0,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 218,
+                "location_id": 219
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 220,
+        "location": "Skikda",
+        "notes": null,
+        "latitude (N)": 36.8621,
+        "longitude (E)": 6.9055,
+        "admin_level_country": "admin_level_3",
+        "CreatedAt": "2025-07-22 20:45:20+00:00",
+        "UpdatedAt": "2025-07-22 21:08:10+00:00",
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 220,
+                "infrastructure_id": 182
+            },
+            {
+                "location_id": 220,
+                "infrastructure_id": 184
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 0,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 2,
+        "_nc_m2m_location_locations1": [],
+        "_nc_m2m_location_locations": []
+    },
+    {
+        "Id": 221,
+        "location": "Ohanet",
+        "notes": null,
+        "latitude (N)": 28.6793,
+        "longitude (E)": 8.8738,
+        "admin_level_country": "admin_level_4",
+        "CreatedAt": "2025-07-22 21:37:51+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 221,
+                "infrastructure_id": 183
+            }
+        ],
+        "roles": 0,
+        "locations": 0,
+        "is-part-of-": 1,
+        "_nc_m2m_role_locations": [],
+        "infrastructures": 1,
+        "_nc_m2m_location_locations1": [
+            {
+                "location1_id": 136,
+                "location_id": 221
+            }
+        ],
+        "_nc_m2m_location_locations": []
+    }
+]

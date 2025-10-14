@@ -1,0 +1,909 @@
+[
+    {
+        "Id": 34,
+        "Title": "Tripartite Agreement",
+        "Transaction type": "Convention",
+        "Date_recorded": "1960-06-13",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-04-25 17:54:53+00:00",
+        "UpdatedAt": "2025-07-11 23:08:12+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 100,
+                "transactions_id": 34
+            },
+            {
+                "entity_id": 67,
+                "transactions_id": 34
+            }
+        ],
+        "_nc_m2m_transactions_people": [
+            {
+                "people_id": 133,
+                "transactions_id": 34
+            },
+            {
+                "people_id": 125,
+                "transactions_id": 34
+            }
+        ],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 34,
+                "concessions_id": 7
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 34,
+                "exploration-drilling_id": 154
+            },
+            {
+                "transactions_id": 34,
+                "exploration-drilling_id": 155
+            }
+        ],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 68,
+                "transactions_id": 34
+            },
+            {
+                "primary_sources_id": 168,
+                "transactions_id": 34
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 2,
+        "People Involved": 2,
+        "Writings about this": 1,
+        "_nc_m2m_transactions_discursive_oils": [
+            {
+                "discursive_oil_id": 34,
+                "transactions_id": 34
+            }
+        ],
+        "concessions": 1,
+        "action-timeline": 2
+    },
+    {
+        "Id": 67,
+        "Title": "Establishment of STIR",
+        "Transaction type": "JV constitution",
+        "Date_recorded": "1960-02-10",
+        "notes": null,
+        "regulated-activity": "refinement",
+        "CreatedAt": "2025-06-08 22:50:15+00:00",
+        "UpdatedAt": "2025-07-11 23:04:07+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 37,
+                "transactions_id": 67
+            },
+            {
+                "entity_id": 69,
+                "transactions_id": 67
+            },
+            {
+                "entity_id": 101,
+                "transactions_id": 67
+            }
+        ],
+        "_nc_m2m_transactions_people": [
+            {
+                "people_id": 125,
+                "transactions_id": 67
+            },
+            {
+                "people_id": 87,
+                "transactions_id": 67
+            }
+        ],
+        "_nc_m2m_concessions_transactions": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 67,
+                "exploration-drilling_id": 154
+            },
+            {
+                "transactions_id": 67,
+                "exploration-drilling_id": 153
+            }
+        ],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 35,
+                "transactions_id": 67
+            }
+        ],
+        "parties_involved": 3,
+        "primary-source": 1,
+        "People Involved": 2,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 0,
+        "action-timeline": 2
+    },
+    {
+        "Id": 100,
+        "Title": "First convention for exploitation in Southern Tunisia & Establishment SITEP",
+        "Transaction type": "Convention",
+        "Date_recorded": "1960-06-10",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-06-16 22:29:40+00:00",
+        "UpdatedAt": "2025-07-11 23:04:14+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 34,
+                "transactions_id": 100
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 100
+            },
+            {
+                "entity_id": 67,
+                "transactions_id": 100
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 100,
+                "transactions_id": 100
+            }
+        ],
+        "parties_involved": 3,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 0,
+        "action-timeline": 0
+    },
+    {
+        "Id": 103,
+        "Title": "Italian confirmation for ENI to expand market Tunisia",
+        "Transaction type": "Not Good",
+        "Date_recorded": "1960-08-10",
+        "notes": null,
+        "regulated-activity": null,
+        "CreatedAt": "2025-06-16 23:45:01+00:00",
+        "UpdatedAt": "2025-07-11 23:04:24+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 181,
+                "transactions_id": 103
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 101,
+                "transactions_id": 103
+            }
+        ],
+        "parties_involved": 1,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 1,
+        "_nc_m2m_transactions_discursive_oils": [
+            {
+                "discursive_oil_id": 67,
+                "transactions_id": 103
+            }
+        ],
+        "concessions": 0,
+        "action-timeline": 0
+    },
+    {
+        "Id": 104,
+        "Title": "Convention between Tunisian Government and Agip on building a refinery in Tunisia",
+        "Transaction type": "Convention",
+        "Date_recorded": "1959-10-16",
+        "notes": null,
+        "regulated-activity": "refinement",
+        "CreatedAt": "2025-06-16 23:51:56+00:00",
+        "UpdatedAt": "2025-07-11 23:04:28+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 69,
+                "transactions_id": 104
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 104
+            }
+        ],
+        "_nc_m2m_transactions_people": [
+            {
+                "people_id": 77,
+                "transactions_id": 104
+            }
+        ],
+        "_nc_m2m_concessions_transactions": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 104,
+                "exploration-drilling_id": 152
+            }
+        ],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 106,
+                "transactions_id": 104
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 1,
+        "People Involved": 1,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 0,
+        "action-timeline": 1
+    },
+    {
+        "Id": 134,
+        "Title": "Agreement Edjeleh-Gabes oil transportation",
+        "Transaction type": "Contract",
+        "Date_recorded": "1958-06-30",
+        "notes": null,
+        "regulated-activity": "transportation",
+        "CreatedAt": "2025-06-19 00:11:52+00:00",
+        "UpdatedAt": "2025-07-11 23:09:05+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 218,
+                "transactions_id": 134
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 134
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 115,
+                "transactions_id": 134
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 0,
+        "action-timeline": 0
+    },
+    {
+        "Id": 199,
+        "Title": "CFP-Total Contract with Algeria",
+        "Transaction type": "Not Good",
+        "Date_recorded": "1971-06-01",
+        "notes": "First French company making peace with Algerian government",
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-06-30 23:51:38+00:00",
+        "UpdatedAt": "2025-07-11 23:04:37+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 219,
+                "transactions_id": 199
+            },
+            {
+                "entity_id": 300,
+                "transactions_id": 199
+            },
+            {
+                "entity_id": 299,
+                "transactions_id": 199
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "_nc_m2m_transactions_primary_sources": [],
+        "parties_involved": 3,
+        "primary-source": 0,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 0,
+        "action-timeline": 0
+    },
+    {
+        "Id": 232,
+        "Title": "French-Algerian Oil & Gas Treaty",
+        "Transaction type": "Not Good",
+        "Date_recorded": "1965-07-29",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-01 00:05:39+00:00",
+        "UpdatedAt": "2025-07-11 23:04:39+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 234,
+                "transactions_id": 232
+            },
+            {
+                "entity_id": 265,
+                "transactions_id": 232
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "_nc_m2m_transactions_primary_sources": [],
+        "parties_involved": 2,
+        "primary-source": 0,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 0,
+        "action-timeline": 0
+    },
+    {
+        "Id": 266,
+        "Title": "El Borma Loi n\u00b060-12 / 68-24/08/2010 ",
+        "Transaction type": "Approving Ministerial Law",
+        "Date_recorded": "1960-07-20",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-06 00:03:14+00:00",
+        "UpdatedAt": "2025-07-11 23:04:42+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 34,
+                "transactions_id": 266
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 266
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 266,
+                "concessions_id": 7
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 133,
+                "transactions_id": 266
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 1,
+        "action-timeline": 0
+    },
+    {
+        "Id": 298,
+        "Title": "Three Decrees by Secretariat d'Etat \u00e0 l'Industrie et aux Transports for southern permits",
+        "Transaction type": "Not Good",
+        "Date_recorded": null,
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-07 17:39:06+00:00",
+        "UpdatedAt": "2025-07-11 23:04:46+00:00",
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 298,
+                "concessions_id": 1
+            },
+            {
+                "transactions_id": 298,
+                "concessions_id": 2
+            },
+            {
+                "transactions_id": 298,
+                "concessions_id": 3
+            },
+            {
+                "transactions_id": 298,
+                "concessions_id": 4
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 100,
+                "transactions_id": 298
+            }
+        ],
+        "parties_involved": 0,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 1,
+        "action-timeline": 0
+    },
+    {
+        "Id": 299,
+        "Title": "Tunisie Centre Nord Exploration Convention",
+        "Transaction type": "Convention",
+        "Date_recorded": "1964-06-05",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-08 18:09:01+00:00",
+        "UpdatedAt": "2025-07-11 23:04:48+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 331,
+                "transactions_id": 299
+            },
+            {
+                "entity_id": 334,
+                "transactions_id": 299
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 299,
+                "concessions_id": 37
+            },
+            {
+                "transactions_id": 299,
+                "concessions_id": 38
+            },
+            {
+                "transactions_id": 299,
+                "concessions_id": 39
+            },
+            {
+                "transactions_id": 299,
+                "concessions_id": 40
+            },
+            {
+                "transactions_id": 299,
+                "concessions_id": 41
+            },
+            {
+                "transactions_id": 299,
+                "concessions_id": 42
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 176,
+                "transactions_id": 299
+            },
+            {
+                "primary_sources_id": 177,
+                "transactions_id": 299
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 2,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 1,
+        "action-timeline": 0
+    },
+    {
+        "Id": 300,
+        "Title": "Decree n.51 for Douleb",
+        "Transaction type": "Approving JORT Decree",
+        "Date_recorded": "1968-11-29",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-08 22:06:35+00:00",
+        "UpdatedAt": "2025-07-11 23:17:19+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 100,
+                "transactions_id": 300
+            },
+            {
+                "entity_id": 331,
+                "transactions_id": 300
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 300,
+                "concessions_id": 40
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 300,
+                "exploration-drilling_id": 141
+            },
+            {
+                "transactions_id": 300,
+                "exploration-drilling_id": 137
+            }
+        ],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 178,
+                "transactions_id": 300
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 0,
+        "action-timeline": 2
+    },
+    {
+        "Id": 301,
+        "Title": "Decree n.16 for Semama",
+        "Transaction type": "Approving JORT Decree",
+        "Date_recorded": "1976-03-02",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-08 22:07:21+00:00",
+        "UpdatedAt": "2025-07-11 23:04:52+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 331,
+                "transactions_id": 301
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 301
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 178,
+                "transactions_id": 301
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 0,
+        "action-timeline": 0
+    },
+    {
+        "Id": 302,
+        "Title": "Decree n.3 for Tamesmida",
+        "Transaction type": "Approving JORT Decree",
+        "Date_recorded": "1970-01-20",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-08 22:12:28+00:00",
+        "UpdatedAt": "2025-07-11 23:20:46+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 100,
+                "transactions_id": 302
+            },
+            {
+                "entity_id": 331,
+                "transactions_id": 302
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 302,
+                "concessions_id": 39
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 302,
+                "exploration-drilling_id": 143
+            },
+            {
+                "transactions_id": 302,
+                "exploration-drilling_id": 139
+            }
+        ],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 178,
+                "transactions_id": 302
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 0,
+        "action-timeline": 2
+    },
+    {
+        "Id": 304,
+        "Title": "Djbel Tamesmida D\u00e9cret-loi 2022-40 du 17/06/2022",
+        "Transaction type": "Extension Decree",
+        "Date_recorded": "2022-06-17",
+        "notes": "SEREPT 5% ETAP 95%",
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-08 22:33:29+00:00",
+        "UpdatedAt": "2025-07-11 23:20:11+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 176,
+                "transactions_id": 304
+            },
+            {
+                "entity_id": 331,
+                "transactions_id": 304
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 304,
+                "concessions_id": 39
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 304,
+                "exploration-drilling_id": 145
+            }
+        ],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 179,
+                "transactions_id": 304
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 0,
+        "action-timeline": 1
+    },
+    {
+        "Id": 305,
+        "Title": "Djbel Douleb D\u00e9cret-loi 2022-42 du 17 juin 2022",
+        "Transaction type": "Extension Decree",
+        "Date_recorded": "2022-07-27",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-08 23:28:10+00:00",
+        "UpdatedAt": "2025-07-11 23:19:58+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 176,
+                "transactions_id": 305
+            },
+            {
+                "entity_id": 331,
+                "transactions_id": 305
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 305,
+                "exploration-drilling_id": 144
+            }
+        ],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 179,
+                "transactions_id": 305
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 0,
+        "action-timeline": 1
+    },
+    {
+        "Id": 308,
+        "Title": "Sfax Kerkennah Concession",
+        "Transaction type": "Convention",
+        "Date_recorded": "1969-02-10",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-10 21:05:35+00:00",
+        "UpdatedAt": "2025-07-11 23:05:00+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 335,
+                "transactions_id": 308
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 308
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 308,
+                "concessions_id": 46
+            },
+            {
+                "transactions_id": 308,
+                "concessions_id": 47
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 180,
+                "transactions_id": 308
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 1,
+        "action-timeline": 0
+    },
+    {
+        "Id": 309,
+        "Title": "Sidi Litaiem JORT Decree n.35",
+        "Transaction type": "Approving JORT Decree",
+        "Date_recorded": "1972-08-29",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-10 21:05:46+00:00",
+        "UpdatedAt": "2025-07-11 23:05:02+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 335,
+                "transactions_id": 309
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 309
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 309,
+                "concessions_id": 47
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 309,
+                "exploration-drilling_id": 147
+            }
+        ],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 178,
+                "transactions_id": 309
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 1,
+        "action-timeline": 1
+    },
+    {
+        "Id": 310,
+        "Title": "Sidi Bahara JORT Decree n.35",
+        "Transaction type": "Approving JORT Decree",
+        "Date_recorded": "1975-05-23",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-10 22:49:13+00:00",
+        "UpdatedAt": "2025-07-11 23:21:17+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 100,
+                "transactions_id": 310
+            },
+            {
+                "entity_id": 335,
+                "transactions_id": 310
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 310,
+                "concessions_id": 47
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 310,
+                "exploration-drilling_id": 149
+            }
+        ],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 178,
+                "transactions_id": 310
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 1,
+        "action-timeline": 1
+    },
+    {
+        "Id": 311,
+        "Title": "Decree 4581-2014 for illicit extension Sidi Bahara & Litaiem",
+        "Transaction type": "Extension Decree",
+        "Date_recorded": "2014-12-31",
+        "notes": null,
+        "regulated-activity": "exploration",
+        "CreatedAt": "2025-07-10 22:54:01+00:00",
+        "UpdatedAt": "2025-07-11 23:05:06+00:00",
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 335,
+                "transactions_id": 311
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 311
+            }
+        ],
+        "_nc_m2m_transactions_people": [],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 311,
+                "concessions_id": 47
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 311,
+                "exploration-drilling_id": 150
+            }
+        ],
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 178,
+                "transactions_id": 311
+            }
+        ],
+        "parties_involved": 2,
+        "primary-source": 1,
+        "People Involved": 0,
+        "Writings about this": 0,
+        "_nc_m2m_transactions_discursive_oils": [],
+        "concessions": 1,
+        "action-timeline": 1
+    }
+]

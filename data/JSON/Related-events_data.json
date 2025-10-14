@@ -1,0 +1,67 @@
+[
+    {
+        "Id": 36,
+        "event_title": "Algeria-France Oil and Gas Accord",
+        "event_date_start": "1965-07-29",
+        "event_date_end": "1965-07-29",
+        "event_type": "treaty",
+        "source_obsidian": "1977_Konrad Schliephake_Oil and Regional Development; Examples from Algeria and Tunisia",
+        "notes": null,
+        "CreatedAt": "2025-06-27 02:20:25+00:00",
+        "UpdatedAt": "2025-07-01 00:02:51+00:00",
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_people": 1,
+        "infrastructure": 0,
+        "_nc_m2m_related_events_people": [
+            {
+                "people_id": 298,
+                "related_events_id": 36
+            }
+        ]
+    },
+    {
+        "Id": 37,
+        "event_title": "ETAP founded to manage petroleum sector. ETAP assumes operational control of concessions",
+        "event_date_start": "1972-03-10",
+        "event_date_end": "1972-03-10",
+        "event_type": "oil-related event",
+        "source_obsidian": null,
+        "notes": null,
+        "CreatedAt": "2025-06-27 02:23:46+00:00",
+        "UpdatedAt": "2025-07-08 22:54:04+00:00",
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_people": 0,
+        "infrastructure": 0,
+        "_nc_m2m_related_events_people": []
+    },
+    {
+        "Id": 67,
+        "event_title": "Skikda LNG explosion",
+        "event_date_start": "2024-01-19",
+        "event_date_end": "2024-01-19",
+        "event_type": "incident ",
+        "source_obsidian": "https://www.gexcon.com/blog/key-lessons-from-lng-incidents-for-safer-operations/",
+        "notes": null,
+        "CreatedAt": "2025-07-08 22:40:25+00:00",
+        "UpdatedAt": "2025-07-22 21:11:12+00:00",
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_people": 0,
+        "infrastructure": 0,
+        "_nc_m2m_related_events_people": []
+    },
+    {
+        "Id": 69,
+        "event_title": null,
+        "event_date_start": null,
+        "event_date_end": null,
+        "event_type": null,
+        "source_obsidian": null,
+        "notes": null,
+        "CreatedAt": "2025-07-25 20:21:08+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_people": 0,
+        "infrastructure": 0,
+        "_nc_m2m_related_events_people": []
+    }
+]

@@ -1,0 +1,1342 @@
+[
+    {
+        "Id": 3,
+        "Title": "Ubication Well El Borma 1",
+        "start-date": "1963-12-01",
+        "end-date": null,
+        "product": "crude oil",
+        "type-of-action": "exploration",
+        "CreatedAt": "2025-04-25 18:09:09+00:00",
+        "UpdatedAt": "2025-07-11 22:39:13+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 3,
+                "oil_infrastructure_id": 1
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 0,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 4,
+        "Title": "Exploration well n.7 El Borma",
+        "start-date": null,
+        "end-date": null,
+        "product": null,
+        "type-of-action": "exploration",
+        "CreatedAt": "2025-04-25 21:56:24+00:00",
+        "UpdatedAt": "2025-07-11 22:39:15+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 4,
+                "oil_infrastructure_id": 1
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 0,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 37,
+        "Title": "First concession granted in Algeria",
+        "start-date": "1952-10-16",
+        "end-date": null,
+        "product": "NOT GOOD",
+        "type-of-action": null,
+        "CreatedAt": "2025-06-16 23:42:37+00:00",
+        "UpdatedAt": "2025-07-08 22:55:35+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 0,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 37,
+                "exploration-drilling_id": 37
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 1,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 38,
+        "Title": "Bir Aouine",
+        "start-date": null,
+        "end-date": null,
+        "product": "NOT GOOD",
+        "type-of-action": null,
+        "CreatedAt": "2025-06-17 00:21:25+00:00",
+        "UpdatedAt": "2025-07-08 22:55:45+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 0,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 37,
+                "exploration-drilling_id": 38
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 1,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 67,
+        "Title": "First drilling in Edj\u00e9l\u00e9h",
+        "start-date": "1956-01-01",
+        "end-date": null,
+        "product": "crude oil",
+        "type-of-action": "exploration",
+        "CreatedAt": "2025-06-20 00:31:19+00:00",
+        "UpdatedAt": "2025-07-11 22:39:37+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 67,
+                "oil_infrastructure_id": 108
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 0,
+        "ecosystem-consequence": 1,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 37,
+                "exploration-drilling_id": 67
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [
+            {
+                "ecosystem_consequences_id": 34,
+                "exploration-production_id": 67
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 1,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 68,
+        "Title": "Deposits discovered in Haoudh El Hamra",
+        "start-date": null,
+        "end-date": null,
+        "product": "crude oil",
+        "type-of-action": "exploration",
+        "CreatedAt": "2025-06-20 00:32:40+00:00",
+        "UpdatedAt": "2025-07-11 22:39:41+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 68,
+                "oil_infrastructure_id": 112
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 37,
+                "exploration-drilling_id": 68
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 1,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 69,
+        "Title": "Hassi R'Mel discovery of natural gas deposit",
+        "start-date": "1956-12-01",
+        "end-date": null,
+        "product": "natural gas",
+        "type-of-action": "exploration",
+        "CreatedAt": "2025-06-20 00:39:41+00:00",
+        "UpdatedAt": "2025-07-11 22:39:43+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 69,
+                "oil_infrastructure_id": 113
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 37,
+                "exploration-drilling_id": 69
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 1,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 70,
+        "Title": "Hassi R'Mel start of production",
+        "start-date": "1961-01-01",
+        "end-date": "2025-06-19",
+        "product": "natural gas",
+        "type-of-action": "production",
+        "CreatedAt": "2025-06-20 00:40:05+00:00",
+        "UpdatedAt": "2025-07-11 22:39:49+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 70,
+                "oil_infrastructure_id": 113
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 37,
+                "exploration-drilling_id": 70
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 1,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 100,
+        "Title": "Tin Fouy\u00e9\u2011Tabankort Concession",
+        "start-date": null,
+        "end-date": null,
+        "product": "crude oil,natural gas",
+        "type-of-action": null,
+        "CreatedAt": "2025-07-01 00:16:05+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 0,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 0,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 133,
+        "Title": "Dispute El Borma SITEP/SEREPT",
+        "start-date": "1961-03-08",
+        "end-date": "1962-01-11",
+        "product": "crude oil",
+        "type-of-action": "exploration",
+        "CreatedAt": "2025-07-07 18:06:48+00:00",
+        "UpdatedAt": "2025-07-11 22:40:01+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 133,
+                "oil_infrastructure_id": 1
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 171,
+                "exploration-drilling_id": 133
+            },
+            {
+                "source_id": 172,
+                "exploration-drilling_id": 133
+            },
+            {
+                "source_id": 173,
+                "exploration-drilling_id": 133
+            },
+            {
+                "source_id": 174,
+                "exploration-drilling_id": 133
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 4,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 134,
+        "Title": "Well Braemi 1 sterile and abandoned",
+        "start-date": "1961-02-03",
+        "end-date": "1961-02-03",
+        "product": "natural gas",
+        "type-of-action": "abandonment ",
+        "CreatedAt": "2025-07-07 18:06:54+00:00",
+        "UpdatedAt": "2025-07-11 22:40:10+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 134,
+                "oil_infrastructure_id": 168
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 175,
+                "exploration-drilling_id": 134
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 1,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 135,
+        "Title": "CO.SI.P. renounces to Racalmuto",
+        "start-date": "1961-02-03",
+        "end-date": "1961-02-03",
+        "product": "natural gas",
+        "type-of-action": "abandonment ",
+        "CreatedAt": "2025-07-07 18:30:31+00:00",
+        "UpdatedAt": "2025-07-11 22:40:16+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 0,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 175,
+                "exploration-drilling_id": 135
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 1,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 137,
+        "Title": "Exploration DST - Douleb",
+        "start-date": "1964-06-05",
+        "end-date": "1968-12-03",
+        "product": "crude oil",
+        "type-of-action": "exploration",
+        "CreatedAt": "2025-07-08 22:39:05+00:00",
+        "UpdatedAt": "2025-07-11 23:17:34+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 137,
+                "oil_infrastructure_id": 169
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 137
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 137
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 137
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 300,
+                "exploration-drilling_id": 137
+            }
+        ],
+        "source": 1,
+        "legal basis": 1,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 2
+    },
+    {
+        "Id": 138,
+        "Title": "Exploration DST - Semmama",
+        "start-date": "1964-06-05",
+        "end-date": "1976-01-20",
+        "product": "crude oil",
+        "type-of-action": "exploration",
+        "CreatedAt": "2025-07-08 22:53:30+00:00",
+        "UpdatedAt": "2025-07-11 23:18:02+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 138,
+                "oil_infrastructure_id": 170
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 138
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 138
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 0,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 2
+    },
+    {
+        "Id": 139,
+        "Title": "Exploration DST - Tamesmida",
+        "start-date": "1964-06-05",
+        "end-date": "1970-01-20",
+        "product": "crude oil",
+        "type-of-action": "exploration",
+        "CreatedAt": "2025-07-08 22:55:54+00:00",
+        "UpdatedAt": "2025-07-11 23:20:46+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 139,
+                "oil_infrastructure_id": 171
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 139
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 139
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 139
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 302,
+                "exploration-drilling_id": 139
+            }
+        ],
+        "source": 1,
+        "legal basis": 1,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 2
+    },
+    {
+        "Id": 141,
+        "Title": "Production DST - Douleb",
+        "start-date": "1968-12-03",
+        "end-date": "2018-12-02",
+        "product": "crude oil",
+        "type-of-action": "production",
+        "CreatedAt": "2025-07-08 22:57:19+00:00",
+        "UpdatedAt": "2025-07-11 23:17:00+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 141,
+                "oil_infrastructure_id": 169
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 141
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 141
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 141
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 300,
+                "exploration-drilling_id": 141
+            }
+        ],
+        "source": 1,
+        "legal basis": 1,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 2
+    },
+    {
+        "Id": 142,
+        "Title": "Production DST - Semmama",
+        "start-date": "1976-03-02",
+        "end-date": "2026-03-01",
+        "product": "crude oil",
+        "type-of-action": "production",
+        "CreatedAt": "2025-07-08 22:57:30+00:00",
+        "UpdatedAt": "2025-07-11 23:18:35+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 142,
+                "oil_infrastructure_id": 170
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 142
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 142
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 142
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 1,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 2
+    },
+    {
+        "Id": 143,
+        "Title": "Production DST - Tamesmida",
+        "start-date": "1970-01-20",
+        "end-date": "2020-01-19",
+        "product": "crude oil",
+        "type-of-action": "production",
+        "CreatedAt": "2025-07-08 23:01:46+00:00",
+        "UpdatedAt": "2025-07-11 23:20:11+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 143,
+                "oil_infrastructure_id": 171
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 143
+            },
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 143
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 143
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 302,
+                "exploration-drilling_id": 143
+            }
+        ],
+        "source": 1,
+        "legal basis": 1,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 2
+    },
+    {
+        "Id": 144,
+        "Title": "Extension DST - Douleb",
+        "start-date": "2022-07-27",
+        "end-date": "2034-12-31",
+        "product": "crude oil",
+        "type-of-action": "production",
+        "CreatedAt": "2025-07-08 23:02:46+00:00",
+        "UpdatedAt": "2025-07-11 23:19:58+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 144,
+                "oil_infrastructure_id": 169
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 144
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 144
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 179,
+                "exploration-drilling_id": 144
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 305,
+                "exploration-drilling_id": 144
+            }
+        ],
+        "source": 1,
+        "legal basis": 1,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 2
+    },
+    {
+        "Id": 145,
+        "Title": "Extension DST - Tamesmima",
+        "start-date": "2022-07-27",
+        "end-date": "2033-12-31",
+        "product": "crude oil",
+        "type-of-action": "production",
+        "CreatedAt": "2025-07-08 23:06:06+00:00",
+        "UpdatedAt": "2025-07-11 23:19:43+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 145,
+                "oil_infrastructure_id": 171
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 145
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 145
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 179,
+                "exploration-drilling_id": 145
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 304,
+                "exploration-drilling_id": 145
+            }
+        ],
+        "source": 1,
+        "legal basis": 1,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 2
+    },
+    {
+        "Id": 147,
+        "Title": "Production - Sidi Litaiem",
+        "start-date": "1972-01-01",
+        "end-date": "2023-12-31",
+        "product": "crude oil",
+        "type-of-action": "production",
+        "CreatedAt": "2025-07-10 21:19:29+00:00",
+        "UpdatedAt": "2025-07-11 23:21:47+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 147,
+                "oil_infrastructure_id": 174
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 335,
+                "actions-timeline_id": 147
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 147
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 309,
+                "exploration-drilling_id": 147
+            }
+        ],
+        "source": 1,
+        "legal basis": 1,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 1
+    },
+    {
+        "Id": 149,
+        "Title": "Sidi Baharat - Exploration Started",
+        "start-date": "1976-01-01",
+        "end-date": "2025-12-31",
+        "product": "crude oil",
+        "type-of-action": "exploration",
+        "CreatedAt": "2025-07-10 22:51:38+00:00",
+        "UpdatedAt": "2025-07-11 23:22:07+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 149,
+                "oil_infrastructure_id": 176
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 335,
+                "actions-timeline_id": 149
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 149
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 310,
+                "exploration-drilling_id": 149
+            }
+        ],
+        "source": 1,
+        "legal basis": 1,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 1
+    },
+    {
+        "Id": 150,
+        "Title": "Sidi Baharat & Litaiem Illicit Extension of permit",
+        "start-date": "2014-12-31",
+        "end-date": "2041-12-31",
+        "product": "crude oil",
+        "type-of-action": "exploration",
+        "CreatedAt": "2025-07-10 22:54:25+00:00",
+        "UpdatedAt": "2025-07-11 23:22:22+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 150,
+                "oil_infrastructure_id": 176
+            },
+            {
+                "exploration-production_id": 150,
+                "oil_infrastructure_id": 174
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 335,
+                "actions-timeline_id": 150
+            }
+        ],
+        "infrastructure": 2,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 150
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 311,
+                "exploration-drilling_id": 150
+            }
+        ],
+        "source": 1,
+        "legal basis": 1,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 1
+    },
+    {
+        "Id": 151,
+        "Title": "Completion pipeline Haoudh el Hamra-Bejaia",
+        "start-date": null,
+        "end-date": null,
+        "product": null,
+        "type-of-action": "transportation",
+        "CreatedAt": "2025-07-11 22:38:44+00:00",
+        "UpdatedAt": "2025-07-11 22:56:18+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 151,
+                "oil_infrastructure_id": 114
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 0,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 152,
+        "Title": "First round negotiations refinery with ENI",
+        "start-date": "1959-10-01",
+        "end-date": "1960-03-31",
+        "product": "benzina,petrolio,gasolio,olio combustibile,GPL",
+        "type-of-action": "refinement ",
+        "CreatedAt": "2025-07-11 22:41:26+00:00",
+        "UpdatedAt": "2025-07-11 22:58:07+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 152,
+                "oil_infrastructure_id": 105
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 166,
+                "actions-timeline_id": 152
+            },
+            {
+                "entity_id": 100,
+                "actions-timeline_id": 152
+            },
+            {
+                "entity_id": 69,
+                "actions-timeline_id": 152
+            },
+            {
+                "entity_id": 173,
+                "actions-timeline_id": 152
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 105,
+                "exploration-drilling_id": 152
+            },
+            {
+                "source_id": 104,
+                "exploration-drilling_id": 152
+            },
+            {
+                "source_id": 168,
+                "exploration-drilling_id": 152
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 104,
+                "exploration-drilling_id": 152
+            }
+        ],
+        "source": 3,
+        "legal basis": 1,
+        "people-involved": 1,
+        "_nc_m2m_actions-timelin_people": [
+            {
+                "people_id": 77,
+                "actions-timeline_id": 152
+            }
+        ],
+        "entities-involved": 4
+    },
+    {
+        "Id": 153,
+        "Title": "Second round negotiations after American competition",
+        "start-date": "1960-06-25",
+        "end-date": "1961-11-01",
+        "product": "benzina,petrolio,gasolio,olio combustibile,GPL",
+        "type-of-action": "refinement ",
+        "CreatedAt": "2025-07-11 22:41:56+00:00",
+        "UpdatedAt": "2025-07-11 22:58:18+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 153,
+                "oil_infrastructure_id": 105
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 37,
+                "actions-timeline_id": 153
+            },
+            {
+                "entity_id": 69,
+                "actions-timeline_id": 153
+            },
+            {
+                "entity_id": 173,
+                "actions-timeline_id": 153
+            },
+            {
+                "entity_id": 100,
+                "actions-timeline_id": 153
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 111,
+                "exploration-drilling_id": 153
+            },
+            {
+                "source_id": 115,
+                "exploration-drilling_id": 153
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 67,
+                "exploration-drilling_id": 153
+            }
+        ],
+        "source": 2,
+        "legal basis": 1,
+        "people-involved": 1,
+        "_nc_m2m_actions-timelin_people": [
+            {
+                "people_id": 68,
+                "actions-timeline_id": 153
+            }
+        ],
+        "entities-involved": 4
+    },
+    {
+        "Id": 154,
+        "Title": "Building Bizerte refinery ",
+        "start-date": "1961-11-01",
+        "end-date": "1963-12-20",
+        "product": "benzina,petrolio,gasolio,olio combustibile,GPL",
+        "type-of-action": "refinement ",
+        "CreatedAt": "2025-07-11 22:42:45+00:00",
+        "UpdatedAt": "2025-07-11 22:59:34+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 154,
+                "oil_infrastructure_id": 105
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 168,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 173,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 184,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 200,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 199,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 201,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 202,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 203,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 204,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 205,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 206,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 207,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 208,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 209,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 210,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 211,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 212,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 214,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 213,
+                "actions-timeline_id": 154
+            },
+            {
+                "entity_id": 215,
+                "actions-timeline_id": 154
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 104,
+                "exploration-drilling_id": 154
+            },
+            {
+                "source_id": 105,
+                "exploration-drilling_id": 154
+            },
+            {
+                "source_id": 168,
+                "exploration-drilling_id": 154
+            }
+        ],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 34,
+                "exploration-drilling_id": 154
+            },
+            {
+                "transactions_id": 67,
+                "exploration-drilling_id": 154
+            }
+        ],
+        "source": 3,
+        "legal basis": 2,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 20
+    },
+    {
+        "Id": 155,
+        "Title": "Bizerte refinery inauguration",
+        "start-date": "1963-12-12",
+        "end-date": "1963-12-20",
+        "product": "benzina,petrolio,gasolio,olio combustibile,GPL",
+        "type-of-action": "refinement ",
+        "CreatedAt": "2025-07-11 22:44:07+00:00",
+        "UpdatedAt": "2025-07-11 22:48:00+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 155,
+                "oil_infrastructure_id": 105
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [
+            {
+                "transactions_id": 34,
+                "exploration-drilling_id": 155
+            }
+        ],
+        "source": 0,
+        "legal basis": 1,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 157,
+        "Title": "Bizerte starts activities",
+        "start-date": "1964-01-01",
+        "end-date": "2025-07-11",
+        "product": null,
+        "type-of-action": "refinement ",
+        "CreatedAt": "2025-07-11 23:00:02+00:00",
+        "UpdatedAt": "2025-07-11 23:00:31+00:00",
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 0,
+        "ecosystem-consequence": 1,
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [
+            {
+                "ecosystem_consequences_id": 1,
+                "exploration-production_id": 157
+            }
+        ],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 0,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 159,
+        "Title": "Gas Liquedation Plant in Arzew began operating",
+        "start-date": "1964-01-01",
+        "end-date": "2025-01-01",
+        "product": "natural gas",
+        "type-of-action": "refinement ",
+        "CreatedAt": "2025-07-22 20:39:16+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 159,
+                "oil_infrastructure_id": 179
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 0,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 160,
+        "Title": "Hassi R'Mel - Arzew Transportation began in 1961",
+        "start-date": "1961-01-01",
+        "end-date": null,
+        "product": "natural gas",
+        "type-of-action": "transportation",
+        "CreatedAt": "2025-07-22 21:03:38+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 160,
+                "oil_infrastructure_id": 180
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 338,
+                "actions-timeline_id": 160
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 0,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 1
+    },
+    {
+        "Id": 161,
+        "Title": "Discovery in Hassi Messaoud ",
+        "start-date": "1965-01-01",
+        "end-date": null,
+        "product": null,
+        "type-of-action": "exploration",
+        "CreatedAt": "2025-07-22 21:33:13+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 161,
+                "oil_infrastructure_id": 112
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 341,
+                "actions-timeline_id": 161
+            }
+        ],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 0,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 1
+    },
+    {
+        "Id": 162,
+        "Title": "Hassi Messaoud Nationalized ",
+        "start-date": "1971-02-24",
+        "end-date": null,
+        "product": null,
+        "type-of-action": "production",
+        "CreatedAt": "2025-07-22 21:33:49+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 162,
+                "oil_infrastructure_id": 112
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 0,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    },
+    {
+        "Id": 163,
+        "Title": "Construction pipeline Hassi Messaoud - Ohanet",
+        "start-date": "1961-01-01",
+        "end-date": null,
+        "product": null,
+        "type-of-action": "transportation",
+        "CreatedAt": "2025-07-22 21:36:53+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 163,
+                "oil_infrastructure_id": 183
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "infrastructure": 1,
+        "ecosystem-consequence": 0,
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_exploration-pro_ecosystem_conses": [],
+        "_nc_m2m_exploration-dri_transactions1s": [],
+        "source": 0,
+        "legal basis": 0,
+        "people-involved": 0,
+        "_nc_m2m_actions-timelin_people": [],
+        "entities-involved": 0
+    }
+]

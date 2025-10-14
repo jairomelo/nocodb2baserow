@@ -1,0 +1,396 @@
+[
+    {
+        "Id": 1,
+        "Title": "Minister",
+        "description": null,
+        "department": null,
+        "subdepartment": null,
+        "notes": null,
+        "end-date": null,
+        "start-date": null,
+        "CreatedAt": "2025-04-25 18:21:10+00:00",
+        "UpdatedAt": "2025-04-25 18:22:54+00:00",
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 1,
+                "people_id": 34
+            }
+        ],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_role_locations": [],
+        "people": 1,
+        "Affiliated-entity": 0,
+        "location": 0
+    },
+    {
+        "Id": 34,
+        "Title": "President",
+        "description": "",
+        "department": null,
+        "subdepartment": null,
+        "notes": "Mattei was initially its president, then also the administrator and the general director",
+        "end-date": 1962,
+        "start-date": 1953,
+        "CreatedAt": "2025-06-08 22:24:07+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 34,
+                "people_id": 87
+            },
+            {
+                "role_id": 34,
+                "people_id": 265
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 67,
+                "role_id": 34
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 2,
+        "Affiliated-entity": 1,
+        "location": 0
+    },
+    {
+        "Id": 35,
+        "Title": "Undersecretary of State for Foreign Affairs",
+        "description": null,
+        "department": "N/A",
+        "subdepartment": "N/A",
+        "notes": null,
+        "end-date": 1960,
+        "start-date": 1955,
+        "CreatedAt": "2025-06-08 22:33:51+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 35,
+                "people_id": 64
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 68,
+                "role_id": 35
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 1,
+        "Affiliated-entity": 1,
+        "location": 0
+    },
+    {
+        "Id": 67,
+        "Title": "Secr\u00e9taire d'\u00c9tat tunisien au Transport",
+        "description": null,
+        "department": "",
+        "subdepartment": null,
+        "notes": null,
+        "end-date": 1961,
+        "start-date": 1958,
+        "CreatedAt": "2025-06-16 17:50:59+00:00",
+        "UpdatedAt": "2025-06-16 17:54:25+00:00",
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 67,
+                "people_id": 133
+            },
+            {
+                "role_id": 67,
+                "people_id": 125
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 100,
+                "role_id": 67
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 2,
+        "Affiliated-entity": 1,
+        "location": 0
+    },
+    {
+        "Id": 68,
+        "Title": "Secr\u00e9taire d'\u00c9tat tunisien au Commerce et \u00e0 l'Industrie",
+        "description": null,
+        "department": null,
+        "subdepartment": null,
+        "notes": null,
+        "end-date": 1968,
+        "start-date": 1957,
+        "CreatedAt": "2025-06-16 17:51:55+00:00",
+        "UpdatedAt": "2025-06-16 17:54:22+00:00",
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 68,
+                "people_id": 133
+            },
+            {
+                "role_id": 68,
+                "people_id": 125
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 100,
+                "role_id": 68
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 2,
+        "Affiliated-entity": 1,
+        "location": 0
+    },
+    {
+        "Id": 69,
+        "Title": "Pr\u00e9sident du Conseil \u00e9conomique et social I",
+        "description": "",
+        "department": null,
+        "subdepartment": null,
+        "notes": "Position created",
+        "end-date": 1969,
+        "start-date": 1961,
+        "CreatedAt": "2025-06-16 17:55:44+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 69,
+                "people_id": 125
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 100,
+                "role_id": 69
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 1,
+        "Affiliated-entity": 1,
+        "location": 0
+    },
+    {
+        "Id": 70,
+        "Title": "Pr\u00e9sident du Conseil \u00e9conomique et social",
+        "description": null,
+        "department": null,
+        "subdepartment": null,
+        "notes": null,
+        "end-date": 1975,
+        "start-date": 1973,
+        "CreatedAt": "2025-06-16 17:56:10+00:00",
+        "UpdatedAt": "2025-06-16 17:56:30+00:00",
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 70,
+                "people_id": 125
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 100,
+                "role_id": 70
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 1,
+        "Affiliated-entity": 1,
+        "location": 0
+    },
+    {
+        "Id": 100,
+        "Title": "President - General Director",
+        "description": null,
+        "department": null,
+        "subdepartment": null,
+        "notes": null,
+        "end-date": null,
+        "start-date": 1966,
+        "CreatedAt": "2025-06-17 00:30:55+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 100,
+                "people_id": 110
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 39,
+                "role_id": 100
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 1,
+        "Affiliated-entity": 0,
+        "location": 0
+    },
+    {
+        "Id": 101,
+        "Title": "Direttore Generale Aggiunto",
+        "description": null,
+        "department": null,
+        "subdepartment": null,
+        "notes": null,
+        "end-date": null,
+        "start-date": 1966,
+        "CreatedAt": "2025-06-17 00:31:47+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 101,
+                "people_id": 241
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 39,
+                "role_id": 101
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 1,
+        "Affiliated-entity": 0,
+        "location": 0
+    },
+    {
+        "Id": 102,
+        "Title": "Amministratore",
+        "description": null,
+        "department": null,
+        "subdepartment": null,
+        "notes": null,
+        "end-date": null,
+        "start-date": 1966,
+        "CreatedAt": "2025-06-17 00:32:16+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 102,
+                "people_id": 65
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 39,
+                "role_id": 102
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 1,
+        "Affiliated-entity": 0,
+        "location": 0
+    },
+    {
+        "Id": 103,
+        "Title": "Amministratore",
+        "description": null,
+        "department": null,
+        "subdepartment": null,
+        "notes": null,
+        "end-date": null,
+        "start-date": 1966,
+        "CreatedAt": "2025-06-17 00:32:50+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 103,
+                "people_id": 42
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 39,
+                "role_id": 103
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 1,
+        "Affiliated-entity": 0,
+        "location": 0
+    },
+    {
+        "Id": 104,
+        "Title": "Amministratore",
+        "description": null,
+        "department": null,
+        "subdepartment": null,
+        "notes": null,
+        "end-date": null,
+        "start-date": 1966,
+        "CreatedAt": "2025-06-17 00:33:13+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 104,
+                "people_id": 70
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 39,
+                "role_id": 104
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 1,
+        "Affiliated-entity": 0,
+        "location": 0
+    },
+    {
+        "Id": 105,
+        "Title": "Amministratore",
+        "description": null,
+        "department": null,
+        "subdepartment": null,
+        "notes": null,
+        "end-date": null,
+        "start-date": 1966,
+        "CreatedAt": "2025-06-17 00:33:50+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_people_roles": [
+            {
+                "role_id": 105,
+                "people_id": 243
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 39,
+                "role_id": 105
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 1,
+        "Affiliated-entity": 0,
+        "location": 0
+    },
+    {
+        "Id": 133,
+        "Title": "Foreign Minister",
+        "description": null,
+        "department": "",
+        "subdepartment": null,
+        "notes": null,
+        "end-date": 1979,
+        "start-date": 1963,
+        "CreatedAt": "2025-06-27 02:29:05+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_people_roles": [],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 236,
+                "role_id": 133
+            }
+        ],
+        "_nc_m2m_role_locations": [],
+        "people": 0,
+        "Affiliated-entity": 1,
+        "location": 0
+    }
+]

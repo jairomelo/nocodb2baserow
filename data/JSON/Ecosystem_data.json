@@ -1,0 +1,45 @@
+[
+    {
+        "Id": 1,
+        "Title": "Bizerte Lake Pollution",
+        "consequence_type": "Biomarine pollution",
+        "consequence_positive_negative": null,
+        "consequence_communities": null,
+        "notes": null,
+        "CreatedAt": "2025-06-19 01:11:12+00:00",
+        "UpdatedAt": "2025-07-11 23:00:31+00:00",
+        "_nc_m2m_exploration-pro_ecosystem_conses": [
+            {
+                "ecosystem_consequences_id": 1,
+                "exploration-production_id": 157
+            }
+        ],
+        "_nc_m2m_ecosystem_conse_infrastructures": [
+            {
+                "infrastructure_id": 105,
+                "ecosystem_consequences_id": 1
+            }
+        ],
+        "exploration-productions": 1,
+        "infrastructure": 1
+    },
+    {
+        "Id": 34,
+        "Title": "Strikes in Zarzaitine, Askar\u00e9ne, Tin Fouy\u00e9, Tiguentiyrune and Ohanet ",
+        "consequence_type": "Social consequence",
+        "consequence_positive_negative": null,
+        "consequence_communities": null,
+        "notes": "to check ",
+        "CreatedAt": "2025-06-20 00:34:17+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_exploration-pro_ecosystem_conses": [
+            {
+                "ecosystem_consequences_id": 34,
+                "exploration-production_id": 67
+            }
+        ],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "exploration-productions": 1,
+        "infrastructure": 0
+    }
+]

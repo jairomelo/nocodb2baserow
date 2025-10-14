@@ -1,0 +1,275 @@
+[
+    {
+        "Id": 1,
+        "Title": "Corrispondenze sul viaggio di Bourguiba a Salsomaggiore",
+        "communication_date": "1959-07-04",
+        "related_feeling": null,
+        "notes": null,
+        "obsidian_reference": "1959-07-04_Corrispondenze sul viaggio di Bourguiba a Salsomaggiore_ENI_PMB_CL_B133_139",
+        "type of source": null,
+        "CreatedAt": "2025-06-08 22:34:47+00:00",
+        "UpdatedAt": "2025-06-08 22:49:00+00:00",
+        "author": {
+            "Id": 64,
+            "last_name1": "Folchi"
+        },
+        "recipient": {
+            "Id": 87,
+            "last_name1": "Mattei"
+        },
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 1,
+                "primary_sources_id": 34
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [
+            {
+                "infrastructure_id": 2,
+                "discursive_oil_id": 1
+            }
+        ],
+        "_nc_m2m_transactions_discursive_oils": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "primary-source": 1,
+        "infrastructures": 1,
+        "transactions": 0,
+        "author-entity": 0
+    },
+    {
+        "Id": 34,
+        "Title": "Article from Agenzia Italiana",
+        "communication_date": "1960-06-10",
+        "related_feeling": "pride,respect,equality",
+        "notes": "Principio di assoluta parit\u00e0 e del mutuo rispetto ",
+        "obsidian_reference": null,
+        "type of source": "newspaper",
+        "CreatedAt": "2025-06-16 18:01:59+00:00",
+        "UpdatedAt": "2025-06-16 18:15:09+00:00",
+        "author": null,
+        "recipient": null,
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 34,
+                "primary_sources_id": 67
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_transactions_discursive_oils": [
+            {
+                "discursive_oil_id": 34,
+                "transactions_id": 34
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [
+            {
+                "discursive_oil_id": 34,
+                "entity_id": 102
+            }
+        ],
+        "primary-source": 1,
+        "infrastructures": 0,
+        "transactions": 1,
+        "author-entity": 1
+    },
+    {
+        "Id": 35,
+        "Title": "El Amal Editorial: Vent against French anger due to agreement with ENI in the Sahara",
+        "communication_date": "1960-06-10",
+        "related_feeling": "astonishment,anger,vent",
+        "notes": "Against ESSO and CREPS",
+        "obsidian_reference": "1960-06-10_El Amal Editorial Vent against French anger due to agreement with ENI in the Sahara_ENI_RE_RP_B154_031",
+        "type of source": "newspaper",
+        "CreatedAt": "2025-06-16 18:02:57+00:00",
+        "UpdatedAt": "2025-06-18 23:18:38+00:00",
+        "author": null,
+        "recipient": null,
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 35,
+                "primary_sources_id": 68
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_transactions_discursive_oils": [],
+        "_nc_m2m_discursive_oil_entities": [
+            {
+                "discursive_oil_id": 35,
+                "entity_id": 103
+            }
+        ],
+        "primary-source": 1,
+        "infrastructures": 0,
+        "transactions": 0,
+        "author-entity": 1
+    },
+    {
+        "Id": 37,
+        "Title": "ANSA Notizia Stampa",
+        "communication_date": null,
+        "related_feeling": null,
+        "notes": null,
+        "obsidian_reference": null,
+        "type of source": "newspaper",
+        "CreatedAt": "2025-06-16 18:21:48+00:00",
+        "UpdatedAt": "2025-06-17 00:08:04+00:00",
+        "author": null,
+        "recipient": null,
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_transactions_discursive_oils": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "primary-source": 0,
+        "infrastructures": 0,
+        "transactions": 0,
+        "author-entity": 0
+    },
+    {
+        "Id": 67,
+        "Title": "A Gabes le concessioni dell'AGIP in Tunisia",
+        "communication_date": "1960-06-12",
+        "related_feeling": "hope,pride",
+        "notes": "This agreement is more important than others for Mattei because is the first time that ENI wins in open competition, this means for him that the 7 sister system is coming to an end",
+        "obsidian_reference": "1960_07_12_Il Giorno_A Gabes le concessioni dell'AGIP in Tunisia_ENI_PMB_CL_B133_236",
+        "type of source": "newspaper",
+        "CreatedAt": "2025-06-17 00:05:29+00:00",
+        "UpdatedAt": "2025-06-17 00:07:54+00:00",
+        "author": null,
+        "recipient": null,
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 67,
+                "primary_sources_id": 102
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_transactions_discursive_oils": [
+            {
+                "discursive_oil_id": 67,
+                "transactions_id": 103
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [
+            {
+                "discursive_oil_id": 67,
+                "entity_id": 182
+            }
+        ],
+        "primary-source": 1,
+        "infrastructures": 0,
+        "transactions": 1,
+        "author-entity": 1
+    },
+    {
+        "Id": 68,
+        "Title": "ENI fight with big companies ",
+        "communication_date": "1960-01-13",
+        "related_feeling": "rage,anger,competition",
+        "notes": null,
+        "obsidian_reference": null,
+        "type of source": "correspondence",
+        "CreatedAt": "2025-06-17 23:26:06+00:00",
+        "UpdatedAt": "2025-07-11 22:49:18+00:00",
+        "author": {
+            "Id": 87,
+            "last_name1": "Mattei"
+        },
+        "recipient": {
+            "Id": 265,
+            "last_name1": "Bourguiba"
+        },
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 68,
+                "primary_sources_id": 108
+            },
+            {
+                "discursive_oil_id": 68,
+                "primary_sources_id": 109
+            },
+            {
+                "discursive_oil_id": 68,
+                "primary_sources_id": 110
+            },
+            {
+                "discursive_oil_id": 68,
+                "primary_sources_id": 111
+            },
+            {
+                "discursive_oil_id": 68,
+                "primary_sources_id": 113
+            },
+            {
+                "discursive_oil_id": 68,
+                "primary_sources_id": 115
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_transactions_discursive_oils": [],
+        "_nc_m2m_discursive_oil_entities": [
+            {
+                "discursive_oil_id": 68,
+                "entity_id": 67
+            }
+        ],
+        "primary-source": 6,
+        "infrastructures": 0,
+        "transactions": 0,
+        "author-entity": 1
+    },
+    {
+        "Id": 100,
+        "Title": "Italy positioning itself as ENI during decolonization",
+        "communication_date": "1960-01-15",
+        "related_feeling": "commitment ",
+        "notes": "This is interesting to understand more about approaches towards decolonization",
+        "obsidian_reference": "1960-01-15_Appello Dillon per larga partecipazione dei paesi europei all'aiuto al paesi sottosviluppati_ENI_E_APRP_B157_291",
+        "type of source": "correspondence",
+        "CreatedAt": "2025-06-18 23:17:23+00:00",
+        "UpdatedAt": "2025-06-18 23:22:08+00:00",
+        "author": {
+            "Id": 73,
+            "last_name1": "Grazzi"
+        },
+        "recipient": null,
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 100,
+                "primary_sources_id": 112
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_transactions_discursive_oils": [],
+        "_nc_m2m_discursive_oil_entities": [
+            {
+                "discursive_oil_id": 100,
+                "entity_id": 217
+            }
+        ],
+        "primary-source": 1,
+        "infrastructures": 0,
+        "transactions": 0,
+        "author-entity": 1
+    },
+    {
+        "Id": 133,
+        "Title": null,
+        "communication_date": null,
+        "related_feeling": null,
+        "notes": null,
+        "obsidian_reference": null,
+        "type of source": null,
+        "CreatedAt": "2025-06-20 20:23:59+00:00",
+        "UpdatedAt": null,
+        "author": null,
+        "recipient": null,
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_transactions_discursive_oils": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "primary-source": 0,
+        "infrastructures": 0,
+        "transactions": 0,
+        "author-entity": 0
+    }
+]

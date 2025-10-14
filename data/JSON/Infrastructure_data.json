@@ -1,0 +1,1179 @@
+[
+    {
+        "Id": 1,
+        "infrastructure_name": "El Borma ",
+        "infrastructure_type": "oil field",
+        "notes": "",
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-04-18 21:40:26+00:00",
+        "UpdatedAt": "2025-07-10 22:39:02+00:00",
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 7,
+                "infrastructure_id": 1
+            },
+            {
+                "concessions_id": 34,
+                "infrastructure_id": 1
+            }
+        ],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 3,
+                "oil_infrastructure_id": 1
+            },
+            {
+                "exploration-production_id": 4,
+                "oil_infrastructure_id": 1
+            },
+            {
+                "exploration-production_id": 133,
+                "oil_infrastructure_id": 1
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 35,
+                "infrastructure_id": 1
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 3,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 4,
+        "licenses": 2,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 1,
+                "entity_id": 301
+            },
+            {
+                "infrastructure_id": 1,
+                "entity_id": 172
+            },
+            {
+                "infrastructure_id": 1,
+                "entity_id": 302
+            },
+            {
+                "infrastructure_id": 1,
+                "entity_id": 303
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 2,
+        "infrastructure_name": "Gabes - Refinery",
+        "infrastructure_type": "refinery",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-04-18 21:40:37+00:00",
+        "UpdatedAt": "2025-07-01 01:10:55+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [],
+        "_nc_m2m_infrastructure_discursive_oils": [
+            {
+                "infrastructure_id": 2,
+                "discursive_oil_id": 1
+            }
+        ],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 1,
+        "ecosystem_consequences": 0,
+        "location (s)": 0,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 34,
+        "infrastructure_name": "El Borma-Skhira - Pipeline",
+        "infrastructure_type": "pipeline",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-04-25 18:07:52+00:00",
+        "UpdatedAt": "2025-07-01 01:11:08+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 35,
+                "infrastructure_id": 34
+            },
+            {
+                "location_id": 70,
+                "infrastructure_id": 34
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 2,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 68,
+        "infrastructure_name": "Gela - Refinery",
+        "infrastructure_type": "refinery",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-06-08 23:04:03+00:00",
+        "UpdatedAt": "2025-07-01 01:11:13+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 69,
+                "infrastructure_id": 68
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 69,
+        "infrastructure_name": "Skhira - Refinery",
+        "infrastructure_type": "refinery",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-06-08 23:14:23+00:00",
+        "UpdatedAt": "2025-07-01 01:11:18+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 70,
+                "infrastructure_id": 69
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 105,
+        "infrastructure_name": "Bizerte - Refinery",
+        "infrastructure_type": "refinery",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-06-17 16:34:32+00:00",
+        "UpdatedAt": "2025-07-11 22:44:31+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 152,
+                "oil_infrastructure_id": 105
+            },
+            {
+                "exploration-production_id": 154,
+                "oil_infrastructure_id": 105
+            },
+            {
+                "exploration-production_id": 153,
+                "oil_infrastructure_id": 105
+            },
+            {
+                "exploration-production_id": 155,
+                "oil_infrastructure_id": 105
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 105,
+                "infrastructure_id": 105
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [
+            {
+                "infrastructure_id": 105,
+                "ecosystem_consequences_id": 1
+            }
+        ],
+        "actions- timeline": 4,
+        "discussions-around": 0,
+        "ecosystem_consequences": 1,
+        "location (s)": 1,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 107,
+        "infrastructure_name": "Zarzaitine ",
+        "infrastructure_type": "oil field",
+        "notes": "not info yet. probably discovered in 1958",
+        "Attachment": [
+            {
+                "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2025/06/17/28c4125a08389f0f92e36b5671accfddea26e0be/Screenshot 2025-06-17 at 11.06.37\u202fAM__wT1T.png",
+                "title": "Screenshot 2025-06-17 at 11.06.37\u202fAM.png",
+                "mimetype": "image/png",
+                "size": 946224,
+                "width": 1324,
+                "height": 632,
+                "id": "ateiv1bwxq9q4zpg",
+                "thumbnails": {
+                    "tiny": {
+                        "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/thumbnails/2025/06/17/28c4125a08389f0f92e36b5671accfddea26e0be/Screenshot%202025-06-17%20at%2011.06.37%E2%80%AFAM__wT1T.png/tiny.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTFSXT22F2%2F20250917%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250917T025500Z&X-Amz-Expires=7500&X-Amz-Signature=ee380bfb903108e2090b72f517ce6eba9fbdbb08d2a22150750ba54643f28e79&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Screenshot%202025-06-17%20at%2011.06.37%3FAM.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202025-06-17%2520at%252011.06.37%25E2%2580%25AFAM.png&response-content-type=image%2Fjpeg&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                    },
+                    "small": {
+                        "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/thumbnails/2025/06/17/28c4125a08389f0f92e36b5671accfddea26e0be/Screenshot%202025-06-17%20at%2011.06.37%E2%80%AFAM__wT1T.png/small.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTFSXT22F2%2F20250917%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250917T025500Z&X-Amz-Expires=7500&X-Amz-Signature=289eee96d2652f2091dee56e715910d3aecbe68c3dd721bdd25a9216cef4cca4&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Screenshot%202025-06-17%20at%2011.06.37%3FAM.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202025-06-17%2520at%252011.06.37%25E2%2580%25AFAM.png&response-content-type=image%2Fjpeg&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                    },
+                    "card_cover": {
+                        "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/thumbnails/2025/06/17/28c4125a08389f0f92e36b5671accfddea26e0be/Screenshot%202025-06-17%20at%2011.06.37%E2%80%AFAM__wT1T.png/card_cover.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTFSXT22F2%2F20250917%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250917T025500Z&X-Amz-Expires=7500&X-Amz-Signature=0722bcb5d5edeb0e829a06c2c0db5c8ff81a274696ed23a16df669968f4d0e90&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Screenshot%202025-06-17%20at%2011.06.37%3FAM.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202025-06-17%2520at%252011.06.37%25E2%2580%25AFAM.png&response-content-type=image%2Fjpeg&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                    }
+                },
+                "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2025/06/17/28c4125a08389f0f92e36b5671accfddea26e0be/Screenshot%202025-06-17%20at%2011.06.37%E2%80%AFAM__wT1T.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTFSXT22F2%2F20250917%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250917T025500Z&X-Amz-Expires=7500&X-Amz-Signature=dcdb7295e4347b86481508471a4e4c0a5637ea8ca98d230954055436791eaf3a&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Screenshot%202025-06-17%20at%2011.06.37%3FAM.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202025-06-17%2520at%252011.06.37%25E2%2580%25AFAM.png&response-content-type=image%2Fpng&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            }
+        ],
+        "status": null,
+        "CreatedAt": "2025-06-17 17:46:58+00:00",
+        "UpdatedAt": "2025-07-10 22:39:01+00:00",
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 1,
+                "infrastructure_id": 107
+            }
+        ],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 108,
+                "infrastructure_id": 107
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 0,
+        "licenses": 1,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 111,
+        "infrastructure_name": "Edjeleh-Gabes ",
+        "infrastructure_type": "pipeline",
+        "notes": "See https://journals.openedition.org/anneemaghreb/3647?hcb=1&lang=en&utm_source=chatgpt.com",
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-06-19 00:08:51+00:00",
+        "UpdatedAt": "2025-07-05 23:41:16+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 109,
+                "infrastructure_id": 111
+            },
+            {
+                "location_id": 100,
+                "infrastructure_id": 111
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 2,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 112,
+        "infrastructure_name": "Hassi Messaoud - field",
+        "infrastructure_type": "oil field",
+        "notes": null,
+        "Attachment": null,
+        "status": "active",
+        "CreatedAt": "2025-06-20 00:39:00+00:00",
+        "UpdatedAt": "2025-07-22 21:34:37+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 68,
+                "oil_infrastructure_id": 112
+            },
+            {
+                "exploration-production_id": 161,
+                "oil_infrastructure_id": 112
+            },
+            {
+                "exploration-production_id": 162,
+                "oil_infrastructure_id": 112
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 112,
+                "infrastructure_id": 112
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 3,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 3,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 112,
+                "entity_id": 336
+            },
+            {
+                "infrastructure_id": 112,
+                "entity_id": 341
+            },
+            {
+                "infrastructure_id": 112,
+                "entity_id": 265
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 113,
+        "infrastructure_name": "Hassi R'Mel",
+        "infrastructure_type": "natural gas deposit",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-06-20 00:41:59+00:00",
+        "UpdatedAt": "2025-07-22 21:00:11+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 69,
+                "oil_infrastructure_id": 113
+            },
+            {
+                "exploration-production_id": 70,
+                "oil_infrastructure_id": 113
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 114,
+                "infrastructure_id": 113
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 2,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 4,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 113,
+                "entity_id": 183
+            },
+            {
+                "infrastructure_id": 113,
+                "entity_id": 220
+            },
+            {
+                "infrastructure_id": 113,
+                "entity_id": 336
+            },
+            {
+                "infrastructure_id": 113,
+                "entity_id": 338
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 114,
+        "infrastructure_name": "Haoudh-El Hamra-Bejaia Pipeline",
+        "infrastructure_type": "pipeline",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-06-20 00:54:18+00:00",
+        "UpdatedAt": "2025-07-11 22:56:18+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 151,
+                "oil_infrastructure_id": 114
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 115,
+                "infrastructure_id": 114
+            },
+            {
+                "location_id": 117,
+                "infrastructure_id": 114
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 1,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 2,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 116,
+        "infrastructure_name": "Oasis Military Experiments Centre ",
+        "infrastructure_type": "nuclear center",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-06-20 20:45:08+00:00",
+        "UpdatedAt": "2025-07-07 18:29:57+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 168,
+                "infrastructure_id": 116
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 133,
+        "infrastructure_name": "AGIP Motel & Station",
+        "infrastructure_type": "distribution point",
+        "notes": "Originally, the hotel was planned as a waystation on the route to El Borma",
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-01 00:54:03+00:00",
+        "UpdatedAt": "2025-07-07 18:29:57+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 118,
+                "infrastructure_id": 133
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 3,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 133,
+                "entity_id": 301
+            },
+            {
+                "infrastructure_id": 133,
+                "entity_id": 38
+            },
+            {
+                "infrastructure_id": 133,
+                "entity_id": 166
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 166,
+        "infrastructure_name": "Methane pipeline",
+        "infrastructure_type": "pipeline",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-07 18:20:06+00:00",
+        "UpdatedAt": "2025-07-07 18:22:07+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 202,
+                "infrastructure_id": 166
+            },
+            {
+                "location_id": 69,
+                "infrastructure_id": 166
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 2,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 168,
+        "infrastructure_name": "Braemi 1 well",
+        "infrastructure_type": "oil well",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-07 18:30:25+00:00",
+        "UpdatedAt": "2025-07-10 21:58:58+00:00",
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 36,
+                "infrastructure_id": 168
+            },
+            {
+                "concessions_id": 5,
+                "infrastructure_id": 168
+            }
+        ],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 134,
+                "oil_infrastructure_id": 168
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 1,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 0,
+        "entities": 1,
+        "licenses": 1,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 168,
+                "entity_id": 332
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 169,
+        "infrastructure_name": "Djebel Douleb",
+        "infrastructure_type": "oil field",
+        "notes": "30% SEREPT 70% ETAP",
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-08 22:52:38+00:00",
+        "UpdatedAt": "2025-07-10 22:38:59+00:00",
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 37,
+                "infrastructure_id": 169
+            }
+        ],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 137,
+                "oil_infrastructure_id": 169
+            },
+            {
+                "exploration-production_id": 141,
+                "oil_infrastructure_id": 169
+            },
+            {
+                "exploration-production_id": 144,
+                "oil_infrastructure_id": 169
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 204,
+                "infrastructure_id": 169
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 3,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 2,
+        "licenses": 1,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 169,
+                "entity_id": 331
+            },
+            {
+                "infrastructure_id": 169,
+                "entity_id": 176
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 170,
+        "infrastructure_name": "Djebel Semmama",
+        "infrastructure_type": "oil field",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-08 23:39:08+00:00",
+        "UpdatedAt": "2025-07-10 22:38:58+00:00",
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 38,
+                "infrastructure_id": 170
+            },
+            {
+                "concessions_id": 37,
+                "infrastructure_id": 170
+            }
+        ],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 138,
+                "oil_infrastructure_id": 170
+            },
+            {
+                "exploration-production_id": 142,
+                "oil_infrastructure_id": 170
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 207,
+                "infrastructure_id": 170
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 2,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 2,
+        "licenses": 1,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 170,
+                "entity_id": 331
+            },
+            {
+                "infrastructure_id": 170,
+                "entity_id": 176
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 171,
+        "infrastructure_name": "Djbel Tamesmida",
+        "infrastructure_type": "oil field",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-08 23:43:32+00:00",
+        "UpdatedAt": "2025-07-11 22:40:51+00:00",
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 39,
+                "infrastructure_id": 171
+            },
+            {
+                "concessions_id": 37,
+                "infrastructure_id": 171
+            }
+        ],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 139,
+                "oil_infrastructure_id": 171
+            },
+            {
+                "exploration-production_id": 143,
+                "oil_infrastructure_id": 171
+            },
+            {
+                "exploration-production_id": 145,
+                "oil_infrastructure_id": 171
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 209,
+                "infrastructure_id": 171
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 3,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 2,
+        "licenses": 1,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 171,
+                "entity_id": 331
+            },
+            {
+                "infrastructure_id": 171,
+                "entity_id": 176
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 173,
+        "infrastructure_name": "Sidi Litaiem - Skhirra Pipeline",
+        "infrastructure_type": "pipeline",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-10 21:17:16+00:00",
+        "UpdatedAt": "2025-07-10 22:08:53+00:00",
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 46,
+                "infrastructure_id": 173
+            },
+            {
+                "concessions_id": 47,
+                "infrastructure_id": 173
+            }
+        ],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 212,
+                "infrastructure_id": 173
+            },
+            {
+                "location_id": 70,
+                "infrastructure_id": 173
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 2,
+        "entities": 0,
+        "licenses": 1,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 174,
+        "infrastructure_name": "Sidi Litaiem",
+        "infrastructure_type": "oil field",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-10 21:18:54+00:00",
+        "UpdatedAt": "2025-07-10 23:00:13+00:00",
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 46,
+                "infrastructure_id": 174
+            },
+            {
+                "concessions_id": 47,
+                "infrastructure_id": 174
+            }
+        ],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 147,
+                "oil_infrastructure_id": 174
+            },
+            {
+                "exploration-production_id": 150,
+                "oil_infrastructure_id": 174
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 212,
+                "infrastructure_id": 174
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 2,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 1,
+        "licenses": 1,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 174,
+                "entity_id": 335
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 176,
+        "infrastructure_name": "Sidi Baharat",
+        "infrastructure_type": "oil field",
+        "notes": "The field is in a development stage since 1975 and production has not started to date. Also illicit extension",
+        "Attachment": null,
+        "status": "Development",
+        "CreatedAt": "2025-07-10 22:38:49+00:00",
+        "UpdatedAt": "2025-07-10 22:54:47+00:00",
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 47,
+                "infrastructure_id": 176
+            }
+        ],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 149,
+                "oil_infrastructure_id": 176
+            },
+            {
+                "exploration-production_id": 150,
+                "oil_infrastructure_id": 176
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 214,
+                "infrastructure_id": 176
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 2,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 1,
+        "licenses": 1,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 176,
+                "entity_id": 335
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 179,
+        "infrastructure_name": "Arzew Gas liquefaction plant",
+        "infrastructure_type": "Gas liquefaction plant",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-22 20:41:23+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 159,
+                "oil_infrastructure_id": 179
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 217,
+                "infrastructure_id": 179
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 1,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 180,
+        "infrastructure_name": "Hassi R'Mel gas pipeline (1)",
+        "infrastructure_type": "pipeline",
+        "notes": null,
+        "Attachment": null,
+        "status": "active",
+        "CreatedAt": "2025-07-22 20:41:42+00:00",
+        "UpdatedAt": "2025-07-22 21:03:52+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 160,
+                "oil_infrastructure_id": 180
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 114,
+                "infrastructure_id": 180
+            },
+            {
+                "location_id": 217,
+                "infrastructure_id": 180
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 1,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 2,
+        "entities": 1,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 180,
+                "entity_id": 338
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 182,
+        "infrastructure_name": "Hassi R'Mel gas pipeline (2)",
+        "infrastructure_type": "pipeline",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-22 20:43:06+00:00",
+        "UpdatedAt": "2025-07-22 21:00:12+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 114,
+                "infrastructure_id": 182
+            },
+            {
+                "location_id": 220,
+                "infrastructure_id": 182
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 2,
+        "entities": 1,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 182,
+                "entity_id": 338
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 183,
+        "infrastructure_name": "Hassi Messaoud - Ohanet oil pipeline",
+        "infrastructure_type": "pipeline",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-22 20:43:18+00:00",
+        "UpdatedAt": "2025-07-22 21:38:01+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [
+            {
+                "exploration-production_id": 163,
+                "oil_infrastructure_id": 183
+            }
+        ],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 112,
+                "infrastructure_id": 183
+            },
+            {
+                "location_id": 221,
+                "infrastructure_id": 183
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 1,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 2,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 184,
+        "infrastructure_name": "Skikda Gas liquefaction plant ",
+        "infrastructure_type": "Gas liquefaction plant",
+        "notes": null,
+        "Attachment": null,
+        "status": "active",
+        "CreatedAt": "2025-07-22 21:07:13+00:00",
+        "UpdatedAt": "2025-07-22 21:09:30+00:00",
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 220,
+                "infrastructure_id": 184
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 1,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 184,
+                "entity_id": 339
+            }
+        ],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 187,
+        "infrastructure_name": "Pumping Station- Haoudh el Hamra",
+        "infrastructure_type": "pumping station",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-22 21:35:11+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [
+            {
+                "location_id": 115,
+                "infrastructure_id": 187
+            }
+        ],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 1,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    },
+    {
+        "Id": 188,
+        "infrastructure_name": null,
+        "infrastructure_type": "pipeline",
+        "notes": null,
+        "Attachment": null,
+        "status": null,
+        "CreatedAt": "2025-07-22 21:36:10+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_concessions_infrastructures": [],
+        "_nc_m2m_exploration-pro_oil_infrastructs": [],
+        "_nc_m2m_infrastructure_locations": [],
+        "_nc_m2m_infrastructure_discursive_oils": [],
+        "_nc_m2m_ecosystem_conse_infrastructures": [],
+        "actions- timeline": 0,
+        "discussions-around": 0,
+        "ecosystem_consequences": 0,
+        "location (s)": 0,
+        "entities": 0,
+        "licenses": 0,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_related_events_infrastructures": [],
+        "related_events": 0
+    }
+]

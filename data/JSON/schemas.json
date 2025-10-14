@@ -1,0 +1,144 @@
+{
+        "Location": {
+            "fields": [
+                {"name": "location", "type": "text"},
+                {"name": "notes", "type": "long_text"},
+                {"name": "latitude_n", "type": "text"},  
+                {"name": "longitude_e", "type": "text"}, 
+                {"name": "admin_level_country", "type": "text"}
+            ]
+        },
+        
+        "Role": {
+            "fields": [
+                {"name": "title", "type": "text"},
+                {"name": "description", "type": "long_text"},
+                {"name": "department", "type": "text"},
+                {"name": "subdepartment", "type": "text"},
+                {"name": "notes", "type": "long_text"},
+                {"name": "start_date", "type": "text"}, 
+                {"name": "end_date", "type": "text"}
+            ]
+        },
+        
+        "Source": {
+            "fields": [
+                {"name": "title", "type": "text"},
+                {"name": "unique_identifier", "type": "text"},
+                {"name": "nb", "type": "text"},  
+                {"name": "source_date", "type": "date"},
+                {"name": "author", "type": "text"},
+                {"name": "type_source", "type": "text"}
+            ]
+        },
+        
+        "People": {
+            "fields": [
+                {"name": "last_name1", "type": "text"},
+                {"name": "first_name", "type": "text"},
+                {"name": "notes", "type": "long_text"},
+                {"name": "discursive_oil_id", "type": "text"},
+                {"name": "discursive_oil_id1", "type": "text"},
+                {"name": "attachment", "type": "text"},
+                {"name": "discursive_oil", "type": "text"},
+                {"name": "discursive_oil_copy", "type": "text"}
+            ]
+        },
+        
+        "Entity": {
+            "fields": [
+                {"name": "name", "type": "text"},
+                {"name": "operating_locations", "type": "text"},
+                {"name": "entity_national_affiliation", "type": "text"},
+                {"name": "descriptive_name", "type": "text"},
+                {"name": "entity_type_past", "type": "text"}, 
+                {"name": "established_date", "type": "date"},
+                {"name": "activity_focus", "type": "long_text"},
+                {"name": "notes", "type": "long_text"},
+                {"name": "current_status", "type": "text"},
+                {"name": "attachment", "type": "text"}
+            ]
+        },
+        
+        "Infrastructure": {
+            "fields": [
+                {"name": "infrastructure_name", "type": "text"},
+                {"name": "infrastructure_type", "type": "text"},
+                {"name": "notes", "type": "long_text"},
+                {"name": "attachment", "type": "text"},
+                {"name": "status", "type": "text"}
+            ]
+        },
+        
+        "Licenses": {
+            "fields": [
+                {"name": "start_date", "type": "date"},
+                {"name": "geographic_scope", "type": "text"},
+                {"name": "exploration_license", "type": "text"}
+            ]
+        },
+        
+        "Ecosystem": {
+            "fields": [
+                {"name": "title", "type": "text"},
+                {"name": "consequence_type", "type": "text"},
+                {"name": "consequence_positive_negative", "type": "text"},
+                {"name": "consequence_communities", "type": "text"},
+                {"name": "notes", "type": "long_text"}
+            ]
+        },
+        
+        "Transactions": {
+            "fields": [
+                {"name": "title", "type": "text"},
+                {"name": "transaction_type", "type": "text"},  
+                {"name": "date_recorded", "type": "date"},     
+                {"name": "notes", "type": "long_text"},
+                {"name": "regulated_activity", "type": "text"}
+            ]
+        },
+        
+        "Actions_Timeline": {
+            "fields": [
+                {"name": "title", "type": "text"},
+                {"name": "start_date", "type": "date"},
+                {"name": "end_date", "type": "text"},  
+                {"name": "product", "type": "text"},
+                {"name": "type_of_action", "type": "text"}
+            ]
+        },
+        
+        "Discursive_Oil": {
+            "fields": [
+                {"name": "title", "type": "text"},
+                {"name": "communication_date", "type": "date"},
+                {"name": "related_feeling", "type": "text"},
+                {"name": "notes", "type": "long_text"},
+                {"name": "obsidian_reference", "type": "text"},
+                {"name": "type_of_source", "type": "text"}, 
+                {"name": "author", "type": "text"},
+                {"name": "recipient", "type": "text"}
+            ]
+        },
+        
+        "Related_Events": {
+            "fields": [
+                {"name": "event_title", "type": "text"},
+                {"name": "event_date_start", "type": "date"},
+                {"name": "event_date_end", "type": "date"},
+                {"name": "event_type", "type": "text"},
+                {"name": "source_obsidian", "type": "text"},
+                {"name": "notes", "type": "long_text"}
+            ]
+        },
+        
+        "Memory": {
+            "fields": [
+                {"name": "memory_title", "type": "text"},
+                {"name": "memory_type", "type": "text"},
+                {"name": "date_recorded", "type": "date"},
+                {"name": "description", "type": "long_text"},
+                {"name": "notes", "type": "long_text"}
+            ]
+        }
+    }

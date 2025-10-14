@@ -1,0 +1,3550 @@
+[
+    {
+        "Id": 34,
+        "name": "SITEP",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Italy,Tunisian",
+        "descriptive_name": "Soci\u00e9t\u00e9 Italo-Tunisienne d'Exploitation P\u00e9troli\u00e8re",
+        "entity_type (past)": "joint venture",
+        "established-date": "1960-06-10",
+        "activity focus": "Exploration and Exploitation of Hydrocarbons in Southern Tunisia",
+        "notes": "Today owned by ETAP and ENI Tunisia B.V.",
+        "current status": "joint venture",
+        "Attachment": null,
+        "CreatedAt": "2025-04-25 18:11:01+00:00",
+        "UpdatedAt": "2025-07-10 23:07:50+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [
+            {
+                "concessions_id": 1,
+                "entity_id": 34
+            },
+            {
+                "concessions_id": 2,
+                "entity_id": 34
+            },
+            {
+                "concessions_id": 3,
+                "entity_id": 34
+            },
+            {
+                "concessions_id": 4,
+                "entity_id": 34
+            },
+            {
+                "concessions_id": 7,
+                "entity_id": 34
+            }
+        ],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 34,
+                "transactions_id": 100
+            },
+            {
+                "entity_id": 34,
+                "transactions_id": 102
+            },
+            {
+                "entity_id": 34,
+                "transactions_id": 266
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 167,
+                "entity_id": 34
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 34
+            },
+            {
+                "entity1_id": 100,
+                "entity_id": 34
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 2,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 3,
+        "Infrastructure": 0,
+        "concessions-grantee": 2,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 35,
+        "name": "ESSO",
+        "operating locations": "Algeria,Tunisia",
+        "entity_national_affiliation": "French",
+        "descriptive_name": null,
+        "entity_type (past)": "private company",
+        "established-date": null,
+        "activity focus": null,
+        "notes": null,
+        "current status": null,
+        "Attachment": null,
+        "CreatedAt": "2025-04-25 18:11:04+00:00",
+        "UpdatedAt": "2025-04-25 18:14:35+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 36,
+        "name": "CREPS",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "French",
+        "descriptive_name": null,
+        "entity_type (past)": "public company",
+        "established-date": null,
+        "activity focus": null,
+        "notes": null,
+        "current status": null,
+        "Attachment": null,
+        "CreatedAt": "2025-04-25 18:12:21+00:00",
+        "UpdatedAt": "2025-06-20 00:47:51+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 37,
+        "name": "STIR",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Italy,Tunisian",
+        "descriptive_name": "Societ\u00e9 Tunisienne des industries de raffinage",
+        "entity_type (past)": "joint venture",
+        "established-date": "1960-01-18",
+        "activity focus": "Refine crude oil in Tunisia and manage industrial operations to produce fuels, liquid combustibles, liquefied gases, and lubricants, primarily to meet the domestic market needs of Tunisia",
+        "notes": "1975 Tunisia bought ENI\u2019s stake",
+        "current status": "state-owned company",
+        "Attachment": null,
+        "CreatedAt": "2025-04-25 18:13:35+00:00",
+        "UpdatedAt": "2025-07-11 22:57:46+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 37,
+                "transactions_id": 67
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 67,
+                "entity_id": 37
+            },
+            {
+                "entity1_id": 100,
+                "entity_id": 37
+            },
+            {
+                "entity1_id": 69,
+                "entity_id": 37
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 37,
+                "actions-timeline_id": 153
+            }
+        ],
+        "roles": 0,
+        "transactions": 1,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 3,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 38,
+        "name": "Agip Tunis",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Italy,Tunisian",
+        "descriptive_name": "Local Subsidiary AGIP Mineraria",
+        "entity_type (past)": "joint venture",
+        "established-date": "1960-01-23",
+        "activity focus": "distribution",
+        "notes": "Participating 90% and 10%",
+        "current status": null,
+        "Attachment": null,
+        "CreatedAt": "2025-04-25 18:15:05+00:00",
+        "UpdatedAt": "2025-07-01 00:55:31+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 133,
+                "entity_id": 38
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 1,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 67,
+        "name": "Ente Nazionale Idrocarburi",
+        "operating locations": "Italy,Tunisia,Algeria",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Ente Nazionale Idrocarburi, \u00e8 un'azienda multinazionale fondata dallo Stato italiano nel 1953 a Roma come ente pubblico economico",
+        "entity_type (past)": "state-owned",
+        "established-date": "1953-02-10",
+        "activity focus": "Oil & Gas Extraction, Refinement & Commerce",
+        "notes": "",
+        "current status": null,
+        "Attachment": null,
+        "CreatedAt": "2025-06-08 22:21:09+00:00",
+        "UpdatedAt": "2025-07-01 00:49:21+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 67,
+                "role_id": 34
+            }
+        ],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 67,
+                "transactions_id": 34
+            },
+            {
+                "entity_id": 67,
+                "transactions_id": 100
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [
+            {
+                "discursive_oil_id": 68,
+                "entity_id": 67
+            }
+        ],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 67,
+                "entity_id": 167
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 166
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 69
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 168
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 171
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 172
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 173
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 37
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 34
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 174
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 179
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 182
+            }
+        ],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 1,
+        "transactions": 2,
+        "discursive_oils": 1,
+        "entities": 12,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 68,
+        "name": "Ministry of Foreign Affairs and International Cooperation",
+        "operating locations": "Italy",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Ministry of the Italian government",
+        "entity_type (past)": "institution",
+        "established-date": "1861-01-01",
+        "activity focus": "Implement Italy's foreign policy and to represent the country in the context of international relations.",
+        "notes": null,
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-08 22:32:41+00:00",
+        "UpdatedAt": "2025-06-16 21:50:42+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 68,
+                "role_id": 35
+            }
+        ],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 1,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 69,
+        "name": "ANIC",
+        "operating locations": "Italy,Tunisia",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Azienda Nazionale Idrogenazione Combustibili",
+        "entity_type (past)": "subsidiary ",
+        "established-date": "1936-01-01",
+        "activity focus": "Basic petrochemicals & petroleum",
+        "notes": "Today EniChem",
+        "current status": "merged",
+        "Attachment": null,
+        "CreatedAt": "2025-06-08 22:56:31+00:00",
+        "UpdatedAt": "2025-07-11 22:58:05+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 69,
+                "transactions_id": 67
+            },
+            {
+                "entity_id": 69,
+                "transactions_id": 104
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 69,
+                "entity_id": 37
+            }
+        ],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 67,
+                "entity_id": 69
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 69,
+                "actions-timeline_id": 153
+            },
+            {
+                "entity_id": 69,
+                "actions-timeline_id": 152
+            }
+        ],
+        "roles": 0,
+        "transactions": 2,
+        "discursive_oils": 0,
+        "entities": 1,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 2
+    },
+    {
+        "Id": 100,
+        "name": "Tunisian Government",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": "General Government of Tunisia",
+        "entity_type (past)": "institution",
+        "established-date": "1957-03-20",
+        "activity focus": "N/A",
+        "notes": null,
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 17:43:01+00:00",
+        "UpdatedAt": "2025-07-11 22:58:18+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [
+            {
+                "concessions_id": 7,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 1,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 2,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 3,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 4,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 34,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 37,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 38,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 39,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 40,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 41,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 42,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 46,
+                "entity_id": 100
+            },
+            {
+                "concessions_id": 47,
+                "entity_id": 100
+            }
+        ],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 100,
+                "role_id": 67
+            },
+            {
+                "entity_id": 100,
+                "role_id": 68
+            },
+            {
+                "entity_id": 100,
+                "role_id": 69
+            },
+            {
+                "entity_id": 100,
+                "role_id": 70
+            }
+        ],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 100,
+                "transactions_id": 34
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 100
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 102
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 104
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 134
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 300
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 301
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 302
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 308
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 310
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 311
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 309
+            },
+            {
+                "entity_id": 100,
+                "transactions_id": 266
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 100,
+                "entity_id": 101
+            },
+            {
+                "entity1_id": 100,
+                "entity_id": 37
+            },
+            {
+                "entity1_id": 100,
+                "entity_id": 34
+            },
+            {
+                "entity1_id": 100,
+                "entity_id": 176
+            },
+            {
+                "entity1_id": 100,
+                "entity_id": 302
+            }
+        ],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 100,
+                "actions-timeline_id": 152
+            },
+            {
+                "entity_id": 100,
+                "actions-timeline_id": 153
+            }
+        ],
+        "roles": 4,
+        "transactions": 12,
+        "discursive_oils": 0,
+        "entities": 5,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 5,
+        "actions-timelines": 2
+    },
+    {
+        "Id": 101,
+        "name": "Ministry Industry and Transportation",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": "Under Tunisian Government",
+        "entity_type (past)": "institution",
+        "established-date": "1957-03-20",
+        "activity focus": null,
+        "notes": null,
+        "current status": null,
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 17:46:45+00:00",
+        "UpdatedAt": "2025-06-16 22:27:44+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 101,
+                "transactions_id": 67
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 100,
+                "entity_id": 101
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 1,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 102,
+        "name": "Agenzia Italiana ",
+        "operating locations": "Italy",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "",
+        "entity_type (past)": "Public Relations Entity",
+        "established-date": null,
+        "activity focus": "Public relations; Publishing Reports ",
+        "notes": "I do not have enough information about this yet. There is no signature on the sources. The only thing I know is that they published certain types of news/reports",
+        "current status": null,
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 18:09:24+00:00",
+        "UpdatedAt": "2025-06-16 21:20:12+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [
+            {
+                "discursive_oil_id": 34,
+                "entity_id": 102
+            }
+        ],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 1,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 103,
+        "name": "El Amal Editorial ",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": "The Daily El Amal (Hope)",
+        "entity_type (past)": "Newspaper",
+        "established-date": "1934-01-01",
+        "activity focus": "The daily was the organ of the Neo Destour Party",
+        "notes": "It stopped working in 1988",
+        "current status": "inactive",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 18:13:54+00:00",
+        "UpdatedAt": "2025-06-16 21:50:33+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [
+            {
+                "discursive_oil_id": 35,
+                "entity_id": 103
+            }
+        ],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 1,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 166,
+        "name": "AGIP",
+        "operating locations": "Internationally",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Azienda Generale Italiana Petroli",
+        "entity_type (past)": "subsidiary ",
+        "established-date": "1926-01-01",
+        "activity focus": "Downstream: refining, distribution, and retail",
+        "notes": "Agip under ENI, not the AGIP before ENI",
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 21:13:38+00:00",
+        "UpdatedAt": "2025-07-11 22:55:19+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 133,
+                "entity_id": 166
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 166,
+                "entity_id": 183
+            }
+        ],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 67,
+                "entity_id": 166
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 166,
+                "actions-timeline_id": 152
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 1,
+        "is-part-of": 1,
+        "Infrastructure": 1,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 167,
+        "name": "AGIP Mineraria",
+        "operating locations": "Internationally",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Azienda Generale Italiana Petroli Mineraria",
+        "entity_type (past)": "subsidiary ",
+        "established-date": "1953-01-01",
+        "activity focus": "Upstream: oil & gas exploration and production (onshore/offshore)",
+        "notes": "When ENI was created, AGIP was split into two specialized companies (AGIP and AGIP Mineraria). AGIP more for retail and Mineraria for drilling",
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 21:17:13+00:00",
+        "UpdatedAt": "2025-06-16 22:45:07+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 167,
+                "entity_id": 34
+            }
+        ],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 67,
+                "entity_id": 167
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 1,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 168,
+        "name": "SNAM",
+        "operating locations": "Internationally",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Societ\u00e0 Nazionale Metanodotti",
+        "entity_type (past)": "subsidiary ",
+        "established-date": "1941-10-30",
+        "activity focus": "Natural gas infrastructure (construction of methane pipelines, and the distribution and sale of gas)",
+        "notes": "Became part of ENI in 1953. Today, SNAM is no longer part of ENI. See  entry SNAM S.p.A",
+        "current status": "standalone company",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 21:22:10+00:00",
+        "UpdatedAt": "2025-07-11 22:58:40+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 168,
+                "entity_id": 169
+            },
+            {
+                "entity1_id": 168,
+                "entity_id": 170
+            },
+            {
+                "entity1_id": 168,
+                "entity_id": 174
+            },
+            {
+                "entity1_id": 168,
+                "entity_id": 179
+            }
+        ],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 67,
+                "entity_id": 168
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 168,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 4,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 169,
+        "name": "SNAM Montaggi",
+        "operating locations": "Italy",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Societ\u00e0 Nazionale Metanodotti",
+        "entity_type (past)": "division",
+        "established-date": "1956-01-01",
+        "activity focus": "Handle construction and assembly of pipelines and plants.",
+        "notes": "the beginning of SNAM dividing into operationally focused units.",
+        "current status": "merged",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 21:42:41+00:00",
+        "UpdatedAt": "2025-06-16 22:26:03+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 168,
+                "entity_id": 169
+            },
+            {
+                "entity1_id": 172,
+                "entity_id": 169
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 2,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 170,
+        "name": "SNAM Progetti Division",
+        "operating locations": "Italy",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Societ\u00e0 Nazionale Metanodotti",
+        "entity_type (past)": "division",
+        "established-date": "1956-01-01",
+        "activity focus": "Design of gas infrastructure. Onshore industrial plants.\nFeasibility studies for international projects.",
+        "notes": "Became part of SAIPEM",
+        "current status": "merged",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 21:44:50+00:00",
+        "UpdatedAt": "2025-06-16 22:26:19+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 168,
+                "entity_id": 170
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 171,
+        "name": "SAIP",
+        "operating locations": "Italy",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Societ\u00e0 Azionaria Imprese Perforazioni",
+        "entity_type (past)": "state-owned",
+        "established-date": "1941-01-01",
+        "activity focus": "Drilling companies",
+        "notes": "It became part of ENI in 1953 like ANIC",
+        "current status": "merged",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 21:46:23+00:00",
+        "UpdatedAt": "2025-06-16 22:53:32+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 67,
+                "entity_id": 171
+            },
+            {
+                "entity1_id": 172,
+                "entity_id": 171
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 2,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 172,
+        "name": "SAIPEM",
+        "operating locations": "Internationally",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Societ\u00e0 Azionaria Italiana Perforazioni E Montaggi",
+        "entity_type (past)": "subsidiary ",
+        "established-date": "1957-01-01",
+        "activity focus": "Specialized EPC (Engineering, Procurement, Construction) contractor, initially for agnostic drilling and pipeline work but also now for offshore platforms",
+        "notes": "Until 2016 it was a subsidiary of Italian oil and gas Eni, which retains approximately 30% of Saipem's shares",
+        "current status": "standalone company",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 21:49:27+00:00",
+        "UpdatedAt": "2025-07-01 00:49:51+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 1,
+                "entity_id": 172
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 172,
+                "entity_id": 171
+            },
+            {
+                "entity1_id": 172,
+                "entity_id": 169
+            }
+        ],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 67,
+                "entity_id": 172
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 2,
+        "is-part-of": 1,
+        "Infrastructure": 1,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 173,
+        "name": "Nuovo Pignone",
+        "operating locations": "Italy",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Industrie Meccaniche e Fonderia Spa",
+        "entity_type (past)": "subsidiary ",
+        "established-date": "1954-01-24",
+        "activity focus": "Industrial Engineering. Manufacturing of industrial equipment like compressors, pumps, turbines, oil and gas machinery",
+        "notes": "Established original company Pignone in 1842",
+        "current status": "standalone company",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 22:00:57+00:00",
+        "UpdatedAt": "2025-07-11 22:58:44+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 67,
+                "entity_id": 173
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 173,
+                "actions-timeline_id": 153
+            },
+            {
+                "entity_id": 173,
+                "actions-timeline_id": 152
+            },
+            {
+                "entity_id": 173,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 3
+    },
+    {
+        "Id": 174,
+        "name": "SODEPS",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian,Italy",
+        "descriptive_name": "Soci\u00e9t\u00e9 de d\u00e9veloppement et d'Exploitation du Permis du Sud ",
+        "entity_type (past)": "joint venture",
+        "established-date": "1983-01-01",
+        "activity focus": "Soci\u00e9t\u00e9 de D\u00e9veloppement et d\u2019Exploitation du Permis du Sud",
+        "notes": "",
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 22:49:14+00:00",
+        "UpdatedAt": "2025-06-16 22:59:32+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 67,
+                "entity_id": 174
+            },
+            {
+                "entity1_id": 176,
+                "entity_id": 174
+            },
+            {
+                "entity1_id": 168,
+                "entity_id": 174
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 3,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 175,
+        "name": "TTPC",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": "Trans Tunisian Pipeline Company S.p.A.",
+        "entity_type (past)": "joint venture",
+        "established-date": "1977-01-01",
+        "activity focus": "Markets/transits Algerian gas through Tunisia\t",
+        "notes": "In 2023, ENI and SNAM transferred TTPC and related assets into SeaCorridor S.r.l., with Eni retaining 50.1% and Snam 49.9%",
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 22:50:56+00:00",
+        "UpdatedAt": "2025-06-16 23:09:10+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 179,
+                "entity_id": 175
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 176,
+        "name": "ETAP ",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": "Entreprise Tunisienne d'Activit\u00e9s P\u00e9troli\u00e8res",
+        "entity_type (past)": "state-owned",
+        "established-date": "1972-03-10",
+        "activity focus": "Manage petroleum exploration and production activities on behalf of the Tunisian government",
+        "notes": "ETAP should conduct research concerning the oil industry; train Tunisian specialists in the various branches of the oil industry; participate in industrial, commercial, financial and other activities that are related to the oil and natural gas industry. ",
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 22:53:16+00:00",
+        "UpdatedAt": "2025-07-11 23:19:23+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 169,
+                "entity_id": 176
+            },
+            {
+                "infrastructure_id": 170,
+                "entity_id": 176
+            },
+            {
+                "infrastructure_id": 171,
+                "entity_id": 176
+            }
+        ],
+        "_nc_m2m_concessions_entities": [
+            {
+                "concessions_id": 40,
+                "entity_id": 176
+            },
+            {
+                "concessions_id": 41,
+                "entity_id": 176
+            },
+            {
+                "concessions_id": 42,
+                "entity_id": 176
+            },
+            {
+                "concessions_id": 37,
+                "entity_id": 176
+            },
+            {
+                "concessions_id": 38,
+                "entity_id": 176
+            },
+            {
+                "concessions_id": 39,
+                "entity_id": 176
+            }
+        ],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 176,
+                "transactions_id": 168
+            },
+            {
+                "entity_id": 176,
+                "transactions_id": 304
+            },
+            {
+                "entity_id": 176,
+                "transactions_id": 305
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 176,
+                "entity_id": 174
+            }
+        ],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 100,
+                "entity_id": 176
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 141
+            },
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 137
+            },
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 138
+            },
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 139
+            },
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 142
+            },
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 143
+            },
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 144
+            },
+            {
+                "entity_id": 176,
+                "actions-timeline_id": 145
+            }
+        ],
+        "roles": 0,
+        "transactions": 2,
+        "discursive_oils": 0,
+        "entities": 1,
+        "is-part-of": 1,
+        "Infrastructure": 3,
+        "concessions-grantee": 1,
+        "concessions-granter": 0,
+        "actions-timelines": 8
+    },
+    {
+        "Id": 177,
+        "name": "SERGAZ",
+        "operating locations": "Italy,Tunisia,Algeria",
+        "entity_national_affiliation": "Italy,Tunisian",
+        "descriptive_name": "Soci\u00e9t\u00e9 de Service du Gazoduc Trans\u2011Tunisien S.A",
+        "entity_type (past)": "joint venture",
+        "established-date": "1983-01-01",
+        "activity focus": "service company to operate and maintain the TTPC pipeline. Maintains/compresses Tunisian gas pipeline\t",
+        "notes": "Established date not confirmed. Now owned by SeaCorridor S.r.l.",
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 22:59:45+00:00",
+        "UpdatedAt": "2025-06-16 23:09:41+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 179,
+                "entity_id": 177
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 179,
+        "name": "SeaCorridor S.r.l.",
+        "operating locations": "Italy,Tunisia,Algeria",
+        "entity_national_affiliation": "Italy,Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "joint governance company",
+        "established-date": "2023-01-10",
+        "activity focus": "Coordinating the activities of the TTPC and TMPC gas pipelines.\n",
+        "notes": "ENI holds 50.1%, while Snam holds 49.9%, under a joint governance model\u202f",
+        "current status": "active",
+        "Attachment": [
+            {
+                "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2025/06/16/28c4125a08389f0f92e36b5671accfddea26e0be/Screenshot 2025-06-16 at 4.06.28\u202fPM_SafQC.png",
+                "title": "Screenshot 2025-06-16 at 4.06.28\u202fPM.png",
+                "mimetype": "image/png",
+                "size": 315822,
+                "width": 2880,
+                "height": 1652,
+                "id": "atdn2fv3yd9cpih2",
+                "thumbnails": {
+                    "tiny": {
+                        "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/thumbnails/2025/06/16/28c4125a08389f0f92e36b5671accfddea26e0be/Screenshot%202025-06-16%20at%204.06.28%E2%80%AFPM_SafQC.png/tiny.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTFSXT22F2%2F20250917%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250917T025528Z&X-Amz-Expires=7472&X-Amz-Signature=b7038619d72c0194c9090db2a11c723da227cc3644b6f8ec51b1a69291177950&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Screenshot%202025-06-16%20at%204.06.28%3FPM.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202025-06-16%2520at%25204.06.28%25E2%2580%25AFPM.png&response-content-type=image%2Fjpeg&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                    },
+                    "small": {
+                        "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/thumbnails/2025/06/16/28c4125a08389f0f92e36b5671accfddea26e0be/Screenshot%202025-06-16%20at%204.06.28%E2%80%AFPM_SafQC.png/small.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTFSXT22F2%2F20250917%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250917T025528Z&X-Amz-Expires=7472&X-Amz-Signature=c8f61529ce2bd9d2a88768b1fedcd7c4ca70e751921afc9ed84d772b0a562eb1&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Screenshot%202025-06-16%20at%204.06.28%3FPM.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202025-06-16%2520at%25204.06.28%25E2%2580%25AFPM.png&response-content-type=image%2Fjpeg&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                    },
+                    "card_cover": {
+                        "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/thumbnails/2025/06/16/28c4125a08389f0f92e36b5671accfddea26e0be/Screenshot%202025-06-16%20at%204.06.28%E2%80%AFPM_SafQC.png/card_cover.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTFSXT22F2%2F20250917%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250917T025528Z&X-Amz-Expires=7472&X-Amz-Signature=2faf4e2b04c63a599bab2914805c8a90fca911418ed0adcf9405dc010fc51dc3&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Screenshot%202025-06-16%20at%204.06.28%3FPM.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202025-06-16%2520at%25204.06.28%25E2%2580%25AFPM.png&response-content-type=image%2Fjpeg&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                    }
+                },
+                "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2025/06/16/28c4125a08389f0f92e36b5671accfddea26e0be/Screenshot%202025-06-16%20at%204.06.28%E2%80%AFPM_SafQC.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTFSXT22F2%2F20250917%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250917T025528Z&X-Amz-Expires=7472&X-Amz-Signature=9fa663051b4ffc1fc691c5176994e0c693d363f8d798e6ab08530b00e0e03910&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Screenshot%202025-06-16%20at%204.06.28%3FPM.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202025-06-16%2520at%25204.06.28%25E2%2580%25AFPM.png&response-content-type=image%2Fpng&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            }
+        ],
+        "CreatedAt": "2025-06-16 23:08:39+00:00",
+        "UpdatedAt": "2025-06-16 23:10:30+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 179,
+                "entity_id": 177
+            },
+            {
+                "entity1_id": 179,
+                "entity_id": 175
+            }
+        ],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 168,
+                "entity_id": 179
+            },
+            {
+                "entity1_id": 67,
+                "entity_id": 179
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 2,
+        "is-part-of": 2,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 180,
+        "name": "Italian Government ",
+        "operating locations": "Italy",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": null,
+        "entity_type (past)": "institution",
+        "established-date": null,
+        "activity focus": null,
+        "notes": null,
+        "current status": null,
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 23:51:34+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 180,
+                "entity_id": 217
+            }
+        ],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 1,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 181,
+        "name": "Ministero delle Partecipazioni Statali",
+        "operating locations": "Italy",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": null,
+        "entity_type (past)": "ministry",
+        "established-date": null,
+        "activity focus": null,
+        "notes": null,
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-16 23:51:50+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 181,
+                "transactions_id": 103
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 1,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 182,
+        "name": "Il Giorno",
+        "operating locations": "Italy",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": null,
+        "entity_type (past)": "Newspaper",
+        "established-date": null,
+        "activity focus": null,
+        "notes": "Established by Enrico Mattei",
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 00:02:58+00:00",
+        "UpdatedAt": "2025-06-17 00:06:02+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [
+            {
+                "discursive_oil_id": 67,
+                "entity_id": 182
+            }
+        ],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 67,
+                "entity_id": 182
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 1,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 183,
+        "name": "SAEP",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Soci\u00e9t\u00e9 Anonyme d'Exploitation P\u00e9troli\u00e8re",
+        "entity_type (past)": "subsidiary ",
+        "established-date": "1966-01-08",
+        "activity focus": "Hydrocarbon exploration, production, transport, and export",
+        "notes": "99.4% of shares held by AGIP S.p.A.",
+        "current status": "inactive",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 00:16:49+00:00",
+        "UpdatedAt": "2025-07-22 18:24:30+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 113,
+                "entity_id": 183
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 183,
+                "transactions_id": 105
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 166,
+                "entity_id": 183
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 1,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 184,
+        "name": "Societ\u00e0 Fedele Bumbalo",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Opere Civili",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 00:16:54+00:00",
+        "UpdatedAt": "2025-07-11 22:59:01+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 184,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 199,
+        "name": "Impresa di Clemente",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Opere Civili",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:32:05+00:00",
+        "UpdatedAt": "2025-07-11 22:59:08+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 199,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 200,
+        "name": "Impresa Finocchiaro",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Opere Civili",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:32:15+00:00",
+        "UpdatedAt": "2025-07-11 22:59:08+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 200,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 201,
+        "name": "Societ\u00e9 Colas",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Opere Civili",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:32:26+00:00",
+        "UpdatedAt": "2025-07-11 22:59:10+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 201,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 202,
+        "name": "Entreprise STOLL",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Opere Civili",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:32:33+00:00",
+        "UpdatedAt": "2025-07-11 22:59:11+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 202,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 203,
+        "name": "Entreprise Moragia",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Costruzioni metalliche e montaggi",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:32:42+00:00",
+        "UpdatedAt": "2025-07-11 22:59:13+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 203,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 204,
+        "name": "Ateliers Durafour",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Costruzioni metalliche e montaggi",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:33:49+00:00",
+        "UpdatedAt": "2025-07-11 22:59:13+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 204,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 205,
+        "name": "Soc. Gen. Ind. Constructions Metalliques",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Costruzioni metalliche e montaggiNaN",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:33:57+00:00",
+        "UpdatedAt": "2025-07-11 22:59:17+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 205,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 206,
+        "name": "Establissement Luparello",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Costruzioni metalliche e montaggiNaN",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:34:10+00:00",
+        "UpdatedAt": "2025-07-11 22:59:18+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 206,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 207,
+        "name": "Chauffour Dumez",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Costruzioni metalliche e montaggiNaN",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:34:18+00:00",
+        "UpdatedAt": "2025-07-11 22:59:19+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 207,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 208,
+        "name": "Etablissement Cohar",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Costruzioni metalliche e montaggiNaN",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:34:24+00:00",
+        "UpdatedAt": "2025-07-11 22:59:21+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 208,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 209,
+        "name": "Domenico Avona",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Costruzioni metalliche e montaggi (a struttura artigianale)",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:34:30+00:00",
+        "UpdatedAt": "2025-07-11 22:59:26+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 209,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 210,
+        "name": "Messina A.",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Costruzioni metalliche e montaggi (a struttura artigianale)",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:34:43+00:00",
+        "UpdatedAt": "2025-07-11 22:59:27+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 210,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 211,
+        "name": "Ditta Sciara V. & G.",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Costruzioni metalliche e montaggi (a struttura artigianale)",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:34:45+00:00",
+        "UpdatedAt": "2025-07-11 22:59:27+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 211,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 212,
+        "name": "Bruccoleri",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Costruzioni metalliche e montaggi (a struttura artigianale)",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:34:50+00:00",
+        "UpdatedAt": "2025-07-11 22:59:29+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 212,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 213,
+        "name": "Comp. Gen. Entreprise Electrique ",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Montaggi eletttrici",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:34:52+00:00",
+        "UpdatedAt": "2025-07-11 22:59:32+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 213,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 214,
+        "name": "Ets Camilleri",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Montaggi eletttrici",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:35:00+00:00",
+        "UpdatedAt": "2025-07-11 22:59:31+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 214,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 215,
+        "name": "Ets Constantin",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company,potential subcontractor",
+        "established-date": null,
+        "activity focus": "Montaggi eletttrici",
+        "notes": "Considered potential subcontractor for the building of the refinery ",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-06-17 21:35:08+00:00",
+        "UpdatedAt": "2025-07-11 22:59:34+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 215,
+                "actions-timeline_id": 154
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 217,
+        "name": "Italian embassy in Tunisia",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": null,
+        "entity_type (past)": "institution",
+        "established-date": null,
+        "activity focus": null,
+        "notes": null,
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-18 23:19:36+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [
+            {
+                "discursive_oil_id": 100,
+                "entity_id": 217
+            }
+        ],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 180,
+                "entity_id": 217
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 1,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 218,
+        "name": "French Government ",
+        "operating locations": "France",
+        "entity_national_affiliation": "French",
+        "descriptive_name": null,
+        "entity_type (past)": "institution",
+        "established-date": null,
+        "activity focus": null,
+        "notes": null,
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-19 00:11:14+00:00",
+        "UpdatedAt": "2025-07-01 00:09:07+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 218,
+                "transactions_id": 134
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 218,
+                "entity_id": 298
+            },
+            {
+                "entity1_id": 218,
+                "entity_id": 341
+            }
+        ],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 1,
+        "discursive_oils": 0,
+        "entities": 2,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 219,
+        "name": "CFP-Total",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "French",
+        "descriptive_name": "Compagnie Fran\u00e7aise de P\u00e9trole",
+        "entity_type (past)": "state-owned",
+        "established-date": "1924-03-28",
+        "activity focus": "Primary French national oil company",
+        "notes": "Initially only CFP. It becomes CFP-Total in 1985 and Total in 1991",
+        "current status": "merged",
+        "Attachment": null,
+        "CreatedAt": "2025-06-20 00:30:02+00:00",
+        "UpdatedAt": "2025-07-22 20:50:31+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 219,
+                "transactions_id": 199
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 219,
+                "entity_id": 299
+            },
+            {
+                "entity1_id": 219,
+                "entity_id": 336
+            }
+        ],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 1,
+        "discursive_oils": 0,
+        "entities": 2,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 220,
+        "name": "S.N. REPAL",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "French",
+        "descriptive_name": "Soci\u00e9t\u00e9 Nationale de Recherche et  d'Exploitation du P\u00e9trole en Alg\u00e9rie",
+        "entity_type (past)": "joint venture",
+        "established-date": "1946-11-16",
+        "activity focus": "Exploration & Exploitation",
+        "notes": "Disappeared in 1972",
+        "current status": "inactive",
+        "Attachment": null,
+        "CreatedAt": "2025-06-20 00:31:13+00:00",
+        "UpdatedAt": "2025-07-22 18:26:49+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 113,
+                "entity_id": 220
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 1,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 232,
+        "name": "OPEC",
+        "operating locations": "Iran,Iraq,Kuwait,Saudi Arabia,Venezuela",
+        "entity_national_affiliation": "International",
+        "descriptive_name": "Petroleum Exporting Countries ",
+        "entity_type (past)": "international organization",
+        "established-date": "1960-09-01",
+        "activity focus": "Enabling the co-operation of leading oil-producing and oil-dependent countries in order to collectively influence the global oil market and maximize profit",
+        "notes": null,
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-27 02:07:13+00:00",
+        "UpdatedAt": "2025-06-27 02:11:36+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 233,
+        "name": "OAPEC",
+        "operating locations": "Kuwait,Libya,Saudi Arabia",
+        "entity_national_affiliation": "International",
+        "descriptive_name": "Organization of Arab Petroleum Exporting Countries ",
+        "entity_type (past)": "international organization",
+        "established-date": "1968-01-09",
+        "activity focus": "Multi-governmental organization coordinating energy policies among oil-producing Arab states",
+        "notes": null,
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-27 02:09:38+00:00",
+        "UpdatedAt": "2025-06-27 02:11:32+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 234,
+        "name": "ASCOOP",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "Algeria,French",
+        "descriptive_name": null,
+        "entity_type (past)": "joint venture",
+        "established-date": "1965-07-29",
+        "activity focus": "It created a partnership between the Algerian state hydrocarbon enterprise, SONATRACH, and a French equivalent for both exploration and exploitation purposes.",
+        "notes": null,
+        "current status": null,
+        "Attachment": null,
+        "CreatedAt": "2025-06-27 02:09:41+00:00",
+        "UpdatedAt": "2025-07-01 00:18:22+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 234,
+                "transactions_id": 232
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 1,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 235,
+        "name": "Algerian Government ",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "Algeria",
+        "descriptive_name": null,
+        "entity_type (past)": "institution",
+        "established-date": "1962-06-01",
+        "activity focus": null,
+        "notes": null,
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-27 02:27:17+00:00",
+        "UpdatedAt": "2025-07-01 00:00:29+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 235,
+                "entity_id": 236
+            },
+            {
+                "entity1_id": 235,
+                "entity_id": 265
+            },
+            {
+                "entity1_id": 235,
+                "entity_id": 341
+            }
+        ],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 3,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 236,
+        "name": "Minister of Foreign Affairs",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "Algeria",
+        "descriptive_name": null,
+        "entity_type (past)": "institution",
+        "established-date": null,
+        "activity focus": null,
+        "notes": null,
+        "current status": null,
+        "Attachment": null,
+        "CreatedAt": "2025-06-27 02:28:33+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [
+            {
+                "entity_id": 236,
+                "role_id": 133
+            }
+        ],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 235,
+                "entity_id": 236
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 1,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 265,
+        "name": "SONATRACH",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "Algeria",
+        "descriptive_name": "Soci\u00e9t\u00e9 Nationale pour la Recherche, la Production, le Transport, la Transformation, et la Commercialisation des Hydrocarbures",
+        "entity_type (past)": "state-owned",
+        "established-date": "1963-12-01",
+        "activity focus": "Oil (fuels, lubricants)\nNatural Gas (LNG)\nPetrochemicals",
+        "notes": "12th largest oil consortium in the world, with 154 subsidiaries operating over the entire oil value-chain from upstream, to midstream, and downstream activities",
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-06-30 23:58:28+00:00",
+        "UpdatedAt": "2025-07-22 21:34:29+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 112,
+                "entity_id": 265
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 265,
+                "transactions_id": 232
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [
+            {
+                "entity1_id": 265,
+                "entity_id": 338
+            }
+        ],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 235,
+                "entity_id": 265
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 1,
+        "discursive_oils": 0,
+        "entities": 1,
+        "is-part-of": 1,
+        "Infrastructure": 1,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 298,
+        "name": "SOPEFAL",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "French",
+        "descriptive_name": "Societ\u00e9 Petroli\u00e8re Francaise Algerie",
+        "entity_type (past)": "state-owned",
+        "established-date": "1965-01-01",
+        "activity focus": "French representative in ASCOOP, sharing control equally with SONATRAC",
+        "notes": "It remained active until the 1971 nationalization by the Algerian government, after which its assets were taken over",
+        "current status": "inactive",
+        "Attachment": null,
+        "CreatedAt": "2025-07-01 00:07:58+00:00",
+        "UpdatedAt": "2025-07-01 00:16:07+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 218,
+                "entity_id": 298
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 299,
+        "name": "Total-Alg\u00e9rie\t",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "French",
+        "descriptive_name": "Total - Algeria",
+        "entity_type (past)": "subsidiary ",
+        "established-date": "1971-05-30",
+        "activity focus": "Legal subsidiary established specifically to own the 49% equity stake in ALREP",
+        "notes": "This marked the formal end of CFP(A) (Compagnie Fran\u00e7aise des P\u00e9troles Alg\u00e9rie) and the beginning of Total-Algerie\u2019s operations.\n\n",
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-07-01 00:35:24+00:00",
+        "UpdatedAt": "2025-07-01 00:35:50+00:00",
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 299,
+                "transactions_id": 199
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 219,
+                "entity_id": 299
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 1,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 300,
+        "name": "ALREP",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "French,Algeria",
+        "descriptive_name": null,
+        "entity_type (past)": "joint venture",
+        "established-date": "1971-03-01",
+        "activity focus": "Most likely refining/petrochemical firm",
+        "notes": null,
+        "current status": "inactive",
+        "Attachment": null,
+        "CreatedAt": "2025-07-01 00:35:30+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 300,
+                "transactions_id": 199
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 1,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 301,
+        "name": "Sahara Comfort",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": "",
+        "entity_type (past)": "private company",
+        "established-date": null,
+        "activity focus": "Food supply and services",
+        "notes": "Catering, logistics, motel management",
+        "current status": "inactive",
+        "Attachment": null,
+        "CreatedAt": "2025-07-01 00:47:18+00:00",
+        "UpdatedAt": "2025-07-01 00:58:47+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 1,
+                "entity_id": 301
+            },
+            {
+                "infrastructure_id": 133,
+                "entity_id": 301
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 2,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 302,
+        "name": "STEG",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": "Soci\u00e9t\u00e9 tunisienne de l'\u00e9lectricit\u00e9 et du gaz",
+        "entity_type (past)": "state-owned",
+        "established-date": "1962-04-03",
+        "activity focus": "the production and distribution of electricity and natural gas on the Tunisian territory",
+        "notes": null,
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-07-01 00:50:36+00:00",
+        "UpdatedAt": "2025-07-01 00:51:56+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 1,
+                "entity_id": 302
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 100,
+                "entity_id": 302
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 1,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 303,
+        "name": "Kilani Construction Firm",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "Tunisian",
+        "descriptive_name": null,
+        "entity_type (past)": "private company",
+        "established-date": null,
+        "activity focus": "construction and maintenance of roads and tracks",
+        "notes": "Relevant for El Borma",
+        "current status": "unkown",
+        "Attachment": null,
+        "CreatedAt": "2025-07-01 00:58:50+00:00",
+        "UpdatedAt": "2025-07-01 01:00:14+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 1,
+                "entity_id": 303
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 1,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 331,
+        "name": "SEREPT",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "French",
+        "descriptive_name": "Soci\u00e9t\u00e9 de Recherches et d'Exploitation des P\u00e9troles en Tunisie",
+        "entity_type (past)": "public company",
+        "established-date": "1931-12-29",
+        "activity focus": "Oil and Gas, Oil & Gas Exploration & Services, and Energy, Utilities & Waste Treatment company",
+        "notes": "Initially, it was the Union of Petroleum Studies and Research in Tunisia, with a capital and managed by a Management Board, which had the acronym SEREPT The union was created with three shareholders: The government of the Protectorate The national office of fuels, liquid The French Petroleum company",
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-07-07 17:53:33+00:00",
+        "UpdatedAt": "2025-07-11 23:19:29+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 169,
+                "entity_id": 331
+            },
+            {
+                "infrastructure_id": 170,
+                "entity_id": 331
+            },
+            {
+                "infrastructure_id": 171,
+                "entity_id": 331
+            }
+        ],
+        "_nc_m2m_concessions_entities": [
+            {
+                "concessions_id": 34,
+                "entity_id": 331
+            },
+            {
+                "concessions_id": 38,
+                "entity_id": 331
+            },
+            {
+                "concessions_id": 39,
+                "entity_id": 331
+            },
+            {
+                "concessions_id": 40,
+                "entity_id": 331
+            },
+            {
+                "concessions_id": 41,
+                "entity_id": 331
+            },
+            {
+                "concessions_id": 42,
+                "entity_id": 331
+            },
+            {
+                "concessions_id": 37,
+                "entity_id": 331
+            }
+        ],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 331,
+                "transactions_id": 299
+            },
+            {
+                "entity_id": 331,
+                "transactions_id": 300
+            },
+            {
+                "entity_id": 331,
+                "transactions_id": 301
+            },
+            {
+                "entity_id": 331,
+                "transactions_id": 302
+            },
+            {
+                "entity_id": 331,
+                "transactions_id": 304
+            },
+            {
+                "entity_id": 331,
+                "transactions_id": 305
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 141
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 137
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 138
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 139
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 142
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 143
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 144
+            },
+            {
+                "entity_id": 331,
+                "actions-timeline_id": 145
+            }
+        ],
+        "roles": 0,
+        "transactions": 6,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 3,
+        "concessions-grantee": 2,
+        "concessions-granter": 0,
+        "actions-timelines": 8
+    },
+    {
+        "Id": 332,
+        "name": "SI.LI.PE",
+        "operating locations": "Sicily",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Compagnia Sicula Ligure Petroli ",
+        "entity_type (past)": "subsidiary ",
+        "established-date": null,
+        "activity focus": null,
+        "notes": "not much information yet",
+        "current status": "inactive",
+        "Attachment": null,
+        "CreatedAt": "2025-07-07 18:28:55+00:00",
+        "UpdatedAt": "2025-07-07 18:31:38+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 168,
+                "entity_id": 332
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 1,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 333,
+        "name": "CO.SI.P.",
+        "operating locations": "Sicily",
+        "entity_national_affiliation": "Italy",
+        "descriptive_name": "Compagnia Siciliana Petroli",
+        "entity_type (past)": "subsidiary ",
+        "established-date": "1970-01-01",
+        "activity focus": "distributor",
+        "notes": "bankrupted in 2020",
+        "current status": "inactive",
+        "Attachment": null,
+        "CreatedAt": "2025-07-07 18:37:21+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 334,
+        "name": "SNPA",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "French",
+        "descriptive_name": "Societ\u00e9 Nationale Des Petroles D'aquitaine",
+        "entity_type (past)": "private company",
+        "established-date": "1941-01-01",
+        "activity focus": "To explore further in the southwest of France",
+        "notes": "Today Elf Aquitaine",
+        "current status": "merged",
+        "Attachment": null,
+        "CreatedAt": "2025-07-08 21:57:24+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 334,
+                "transactions_id": 299
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 1,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 335,
+        "name": "CFTP",
+        "operating locations": "Tunisia",
+        "entity_national_affiliation": "French",
+        "descriptive_name": "Compagnie Franco-Tunisienne des Petroles",
+        "entity_type (past)": "private company",
+        "established-date": "1969-01-13",
+        "activity focus": "Recherches et concessions d\u2019exploitation de substances min\u00e9rales du second groupe issue du \u00ab Permis Sfax_Kerkenah",
+        "notes": null,
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-07-10 21:04:47+00:00",
+        "UpdatedAt": "2025-07-11 23:22:22+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 176,
+                "entity_id": 335
+            },
+            {
+                "infrastructure_id": 174,
+                "entity_id": 335
+            }
+        ],
+        "_nc_m2m_concessions_entities": [
+            {
+                "concessions_id": 46,
+                "entity_id": 335
+            },
+            {
+                "concessions_id": 47,
+                "entity_id": 335
+            }
+        ],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [
+            {
+                "entity_id": 335,
+                "transactions_id": 308
+            },
+            {
+                "entity_id": 335,
+                "transactions_id": 310
+            },
+            {
+                "entity_id": 335,
+                "transactions_id": 311
+            },
+            {
+                "entity_id": 335,
+                "transactions_id": 309
+            }
+        ],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 335,
+                "actions-timeline_id": 147
+            },
+            {
+                "entity_id": 335,
+                "actions-timeline_id": 149
+            },
+            {
+                "entity_id": 335,
+                "actions-timeline_id": 150
+            }
+        ],
+        "roles": 0,
+        "transactions": 4,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 2,
+        "concessions-grantee": 1,
+        "concessions-granter": 0,
+        "actions-timelines": 3
+    },
+    {
+        "Id": 336,
+        "name": "CFPA",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "French,Algeria",
+        "descriptive_name": "Compagnie fran\u00e7aise des p\u00e9troles Alg\u00e9rie",
+        "entity_type (past)": "subsidiary",
+        "established-date": "1953-01-01",
+        "activity focus": "Holding of deposits in the Algerian Sahara",
+        "notes": "Disapperead at the nationalization of Algerian oil in 1971",
+        "current status": "inactive",
+        "Attachment": null,
+        "CreatedAt": "2025-07-22 20:49:44+00:00",
+        "UpdatedAt": "2025-07-22 21:34:15+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 113,
+                "entity_id": 336
+            },
+            {
+                "infrastructure_id": 112,
+                "entity_id": 336
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 219,
+                "entity_id": 336
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 2,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 337,
+        "name": null,
+        "operating locations": null,
+        "entity_national_affiliation": null,
+        "descriptive_name": null,
+        "entity_type (past)": null,
+        "established-date": null,
+        "activity focus": null,
+        "notes": null,
+        "current status": null,
+        "Attachment": null,
+        "CreatedAt": "2025-07-22 20:49:49+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 338,
+        "name": "SOTHRA",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "Algeria",
+        "descriptive_name": "Soci\u00e9t\u00e9 de Transport du Gaz Naturel d'Hassi-Er-r'Mel Arzew",
+        "entity_type (past)": "subsidiary ",
+        "established-date": null,
+        "activity focus": "Transportation of oil between Hassi Er Mel and Arzew",
+        "notes": null,
+        "current status": "inactive",
+        "Attachment": null,
+        "CreatedAt": "2025-07-22 20:55:39+00:00",
+        "UpdatedAt": "2025-07-22 21:00:17+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 113,
+                "entity_id": 338
+            },
+            {
+                "infrastructure_id": 180,
+                "entity_id": 338
+            },
+            {
+                "infrastructure_id": 182,
+                "entity_id": 338
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 265,
+                "entity_id": 338
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 338,
+                "actions-timeline_id": 160
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 1,
+        "Infrastructure": 3,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    },
+    {
+        "Id": 339,
+        "name": "SONELGAZ",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "Algeria",
+        "descriptive_name": "Soci\u00e9t\u00e9 Nationale de l'Electricit\u00e9 et du Gaz,",
+        "entity_type (past)": "state-owned",
+        "established-date": "1969-07-28",
+        "activity focus": "monopoly over the distribution and selling of natural gas within the country as well as the production, distribution, importation, and exportation of electricity",
+        "notes": null,
+        "current status": "active",
+        "Attachment": null,
+        "CreatedAt": "2025-07-22 21:04:56+00:00",
+        "UpdatedAt": "2025-07-22 21:08:32+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 184,
+                "entity_id": 339
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 1,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 340,
+        "name": null,
+        "operating locations": null,
+        "entity_national_affiliation": null,
+        "descriptive_name": null,
+        "entity_type (past)": null,
+        "established-date": null,
+        "activity focus": null,
+        "notes": null,
+        "current status": null,
+        "Attachment": null,
+        "CreatedAt": "2025-07-22 21:05:36+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_entity_infrastructures": [],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [],
+        "_nc_m2m_actions-timelin_entities": [],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 0,
+        "Infrastructure": 0,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 0
+    },
+    {
+        "Id": 341,
+        "name": "SN REPAL",
+        "operating locations": "Algeria",
+        "entity_national_affiliation": "Algeria,French",
+        "descriptive_name": " Soci\u00e9t\u00e9 nationale de recherche et d'exploitation de p\u00e9trole en Alg\u00e9rie",
+        "entity_type (past)": "joint venture",
+        "established-date": "1946-11-16",
+        "activity focus": "Oil exploitation in Algeria",
+        "notes": null,
+        "current status": "inactive",
+        "Attachment": null,
+        "CreatedAt": "2025-07-22 21:31:45+00:00",
+        "UpdatedAt": "2025-07-22 21:34:22+00:00",
+        "_nc_m2m_entity_infrastructures": [
+            {
+                "infrastructure_id": 112,
+                "entity_id": 341
+            }
+        ],
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_role_entities": [],
+        "_nc_m2m_transactions_entities": [],
+        "_nc_m2m_discursive_oil_entities": [],
+        "_nc_m2m_entity_entities": [],
+        "_nc_m2m_entity_entities1": [
+            {
+                "entity1_id": 218,
+                "entity_id": 341
+            },
+            {
+                "entity1_id": 235,
+                "entity_id": 341
+            }
+        ],
+        "_nc_m2m_actions-timelin_entities": [
+            {
+                "entity_id": 341,
+                "actions-timeline_id": 161
+            }
+        ],
+        "roles": 0,
+        "transactions": 0,
+        "discursive_oils": 0,
+        "entities": 0,
+        "is-part-of": 2,
+        "Infrastructure": 1,
+        "concessions-grantee": 0,
+        "concessions-granter": 0,
+        "actions-timelines": 1
+    }
+]

@@ -1,0 +1,882 @@
+[
+    {
+        "Id": 34,
+        "Title": "Corrispondenze sul viaggio di Bourguiba a Salsomaggiore",
+        "unique-identifier": "ENI_PMB_CL_B133_139",
+        "NB": null,
+        "Source_date": "1959-07-04",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-08 22:35:45+00:00",
+        "UpdatedAt": "2025-07-07 16:30:22+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 1,
+                "primary_sources_id": 34
+            }
+        ],
+        "discursive_oils": 1,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 35,
+        "Title": "18_Convenzione tra governo Tunisino e ENI",
+        "unique-identifier": "ENI_APRP_B157_026",
+        "NB": "to check",
+        "Source_date": "1960-02-10",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-08 22:53:42+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 35,
+                "transactions_id": 67
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 1,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 36,
+        "Title": "Relazioni Tecniche sulla costruzione raffineria",
+        "unique-identifier": "ENI_E_APRP_B157_313",
+        "NB": "to check",
+        "Source_date": "1960-03-17",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-08 23:07:53+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 37,
+        "Title": "Oil and Regional Development; Examples from Algeria and Tunisia",
+        "unique-identifier": "UCSB_ Schliephake_Oil and Regional Development_1977",
+        "NB": null,
+        "Source_date": "1967-01-01",
+        "author": "Konrad Schliephake",
+        "type-source": "book",
+        "CreatedAt": "2025-06-08 23:08:07+00:00",
+        "UpdatedAt": "2025-07-08 21:57:40+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 37,
+                "exploration-drilling_id": 37
+            },
+            {
+                "source_id": 37,
+                "exploration-drilling_id": 38
+            },
+            {
+                "source_id": 37,
+                "exploration-drilling_id": 67
+            },
+            {
+                "source_id": 37,
+                "exploration-drilling_id": 68
+            },
+            {
+                "source_id": 37,
+                "exploration-drilling_id": 69
+            },
+            {
+                "source_id": 37,
+                "exploration-drilling_id": 70
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 6
+    },
+    {
+        "Id": 67,
+        "Title": " 1960-06-10_Agenzia Italiana_Firmato Accordo ENI-Tunisia ",
+        "unique-identifier": "ENI_RE_RP_B154_047",
+        "NB": null,
+        "Source_date": "1960-06-10",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-16 18:00:13+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 34,
+                "primary_sources_id": 67
+            }
+        ],
+        "discursive_oils": 1,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 68,
+        "Title": "El Amal Editorial Vent against French anger due to agreement with ENI in the Sahara",
+        "unique-identifier": "ENI_RE_RP_B154_031",
+        "NB": null,
+        "Source_date": "1960-06-10",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-16 18:11:52+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 68,
+                "transactions_id": 34
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 35,
+                "primary_sources_id": 68
+            }
+        ],
+        "discursive_oils": 1,
+        "transactions": 1,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 100,
+        "Title": "SITEP Convention ",
+        "unique-identifier": "ENI_RE_RP_B154_103",
+        "NB": null,
+        "Source_date": "1961-01-01",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-16 23:27:30+00:00",
+        "UpdatedAt": "2025-07-07 17:49:31+00:00",
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 100,
+                "transactions_id": 100
+            },
+            {
+                "primary_sources_id": 100,
+                "transactions_id": 102
+            },
+            {
+                "primary_sources_id": 100,
+                "transactions_id": 298
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 2,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 101,
+        "Title": "Prot. n. 32520 Lettera dal Ministro delle Partecipazioni a ENI",
+        "unique-identifier": "ENI_RE_MPS_B5_001",
+        "NB": null,
+        "Source_date": "1960-08-10",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-16 23:52:59+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 101,
+                "transactions_id": 103
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 1,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 102,
+        "Title": "Il Giorno_A Gabes le concessioni dell'AGIP in Tunisia",
+        "unique-identifier": "ENI_PMB_CL_B133_236",
+        "NB": null,
+        "Source_date": "1960-06-12",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-17 00:00:36+00:00",
+        "UpdatedAt": "2025-07-08 23:56:20+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 67,
+                "primary_sources_id": 102
+            }
+        ],
+        "discursive_oils": 1,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 103,
+        "Title": "Costituzione SAEP",
+        "unique-identifier": "ENI_RE_MPS_B6_007",
+        "NB": null,
+        "Source_date": "1966-11-05",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-17 00:23:12+00:00",
+        "UpdatedAt": "2025-07-07 17:49:31+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 104,
+        "Title": "Jacoboni_Studio tecnico sulla construzione di una raffineria",
+        "unique-identifier": "ENI_E_APRP_B157_313",
+        "NB": null,
+        "Source_date": "1959-01-01",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-17 16:50:24+00:00",
+        "UpdatedAt": "2025-07-11 22:46:16+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 104,
+                "exploration-drilling_id": 154
+            },
+            {
+                "source_id": 104,
+                "exploration-drilling_id": 152
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 2
+    },
+    {
+        "Id": 105,
+        "Title": "Jacoboni_XI Studio tecnico sulla construzione di una raffineria",
+        "unique-identifier": "ENI_E_APRP_B157_336",
+        "NB": null,
+        "Source_date": "1960-03-07",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-17 16:51:23+00:00",
+        "UpdatedAt": "2025-07-11 22:46:16+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 105,
+                "exploration-drilling_id": 154
+            },
+            {
+                "source_id": 105,
+                "exploration-drilling_id": 152
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 2
+    },
+    {
+        "Id": 106,
+        "Title": "Convenzione su valutazione tecnico-economica per la costruzione di una raffineria in Tunisia",
+        "unique-identifier": "ENI_E_APRP_B157_070",
+        "NB": null,
+        "Source_date": "1959-10-16",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-17 22:53:17+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 106,
+                "transactions_id": 104
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 1,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 107,
+        "Title": "Trattative con il Governo Tunisino riguardante i permessi a. 1, 3 \u0435 raffineria ",
+        "unique-identifier": "ENI_E_APRP_B157_305",
+        "NB": "to check",
+        "Source_date": "1960-01-01",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-17 23:02:55+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 108,
+        "Title": "Lettera Mattei Borguiba su raffineria ESSO-STANDARD",
+        "unique-identifier": "ENI_E_APRP_B157_250",
+        "NB": null,
+        "Source_date": "1960-01-13",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-17 23:26:21+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 68,
+                "primary_sources_id": 108
+            }
+        ],
+        "discursive_oils": 1,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 109,
+        "Title": "Lettera di Mattei a Bourguiba su ingerenza internazionale",
+        "unique-identifier": "ENI_E_APRP_B157_253",
+        "NB": null,
+        "Source_date": "1960-01-18",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-17 23:29:27+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 68,
+                "primary_sources_id": 109
+            }
+        ],
+        "discursive_oils": 1,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 110,
+        "Title": "Gavotti_Tunisia, punto sulla situazione al Giugno 1960",
+        "unique-identifier": "ENI_E_APRP_B157_299",
+        "NB": null,
+        "Source_date": "1960-06-25",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-17 23:37:53+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 68,
+                "primary_sources_id": 110
+            }
+        ],
+        "discursive_oils": 1,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 111,
+        "Title": "Tunisia, punto sulla situazione al Giugno 1960_Raffineria sette sorelle caduta",
+        "unique-identifier": "ENI_E_APRP_B157_299",
+        "NB": "interesting ",
+        "Source_date": "1960-05-25",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-18 23:12:27+00:00",
+        "UpdatedAt": "2025-07-11 22:46:45+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 111,
+                "exploration-drilling_id": 153
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 68,
+                "primary_sources_id": 111
+            }
+        ],
+        "discursive_oils": 1,
+        "transactions": 0,
+        "exploration-drillings": 1
+    },
+    {
+        "Id": 112,
+        "Title": "Appello Dillon per larga partecipazione dei paesi europei all'aiuto al paesi sottosviluppati",
+        "unique-identifier": "ENI_E_APRP_B157_291",
+        "NB": null,
+        "Source_date": "1960-01-15",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-18 23:21:09+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 100,
+                "primary_sources_id": 112
+            }
+        ],
+        "discursive_oils": 1,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 113,
+        "Title": "Telegramma da Grazzi a Italdipl Washington and Tunis su ingerenza Americana",
+        "unique-identifier": "ENI_E_APRP_B157_257",
+        "NB": null,
+        "Source_date": "1959-01-01",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-18 23:27:56+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 68,
+                "primary_sources_id": 113
+            }
+        ],
+        "discursive_oils": 1,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 114,
+        "Title": "Discussioni su accordo tripartito",
+        "unique-identifier": "ENI_E_APRP_B157_064",
+        "NB": null,
+        "Source_date": "1959-10-19",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-18 23:42:32+00:00",
+        "UpdatedAt": "2025-07-07 16:30:25+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 115,
+        "Title": "Lettera segreta da Mattei a Bourguiba",
+        "unique-identifier": "ENI_E_APRP_B157_241",
+        "NB": null,
+        "Source_date": "1960-01-01",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-06-19 00:16:20+00:00",
+        "UpdatedAt": "2025-07-11 23:09:05+00:00",
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 115,
+                "transactions_id": 134
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 115,
+                "exploration-drilling_id": 153
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [
+            {
+                "discursive_oil_id": 68,
+                "primary_sources_id": 115
+            }
+        ],
+        "discursive_oils": 1,
+        "transactions": 1,
+        "exploration-drillings": 1
+    },
+    {
+        "Id": 133,
+        "Title": "Lettera ENI con dettagli legali su permesso El Borma",
+        "unique-identifier": "ENI_E_APRP_B157_246",
+        "NB": null,
+        "Source_date": "1961-03-08",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-07-06 00:02:13+00:00",
+        "UpdatedAt": "2025-07-07 16:38:09+00:00",
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 133,
+                "transactions_id": 266
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 1,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 168,
+        "Title": "Discussioni su accordo tripartito",
+        "unique-identifier": "ENI_E_APRP_B157_064",
+        "NB": null,
+        "Source_date": "1959-10-19",
+        "author": "Attilio Jacoboni",
+        "type-source": "archival document",
+        "CreatedAt": "2025-07-07 16:56:04+00:00",
+        "UpdatedAt": "2025-07-11 22:46:24+00:00",
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 168,
+                "transactions_id": 34
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 168,
+                "exploration-drilling_id": 154
+            },
+            {
+                "source_id": 168,
+                "exploration-drilling_id": 152
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 1,
+        "exploration-drillings": 2
+    },
+    {
+        "Id": 169,
+        "Title": "Informazioni geologiche sui permessi",
+        "unique-identifier": "ENI_E_APRP_B157_110",
+        "NB": null,
+        "Source_date": "1960-02-01",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-07-07 17:08:58+00:00",
+        "UpdatedAt": "2025-07-07 17:11:56+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 171,
+        "Title": "Lettera ENI con dettagli legali su permesso El Borma",
+        "unique-identifier": "ENI_E_APRP_B157_246",
+        "NB": null,
+        "Source_date": "1961-03-08",
+        "author": "Cesare Gavotti",
+        "type-source": "archival document",
+        "CreatedAt": "2025-07-07 18:11:15+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 171,
+                "exploration-drilling_id": 133
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 1
+    },
+    {
+        "Id": 172,
+        "Title": "Corrispondenze Mattei e politici sulla situazione permesso El Borma bloccato",
+        "unique-identifier": "ENI_PMB_CL_B133_100",
+        "NB": null,
+        "Source_date": "1961-05-03",
+        "author": "Enrico Mattei",
+        "type-source": "archival document",
+        "CreatedAt": "2025-07-07 18:11:52+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 172,
+                "exploration-drilling_id": 133
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 1
+    },
+    {
+        "Id": 173,
+        "Title": "Telespresso 10377 su rinvio concessioni El Borma",
+        "unique-identifier": "ENI_E_APRP_B157_270",
+        "NB": null,
+        "Source_date": "1961-05-20",
+        "author": "Ministero Partecipazioni Statali",
+        "type-source": "archival document",
+        "CreatedAt": "2025-07-07 18:13:25+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 173,
+                "exploration-drilling_id": 133
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 1
+    },
+    {
+        "Id": 174,
+        "Title": "Telespresso n.48 su permesso El Borma tra SITEP e SEREPT da risolvere dopo Evian",
+        "unique-identifier": "ENI_E_APRP_B157_248",
+        "NB": null,
+        "Source_date": "1961-05-22",
+        "author": null,
+        "type-source": "archival document",
+        "CreatedAt": "2025-07-07 18:14:51+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 174,
+                "exploration-drilling_id": 133
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 1
+    },
+    {
+        "Id": 175,
+        "Title": "Pozzo Braemi 1 permesso Mazzarino  - Compagnia Siciliana Petroli + Racalmuto",
+        "unique-identifier": "ENI_AGIP_RP_SR_B254_057",
+        "NB": null,
+        "Source_date": "1962-01-21",
+        "author": "AGIP Mineraria",
+        "type-source": "archival document",
+        "CreatedAt": "2025-07-07 18:33:50+00:00",
+        "UpdatedAt": "2025-07-08 22:54:31+00:00",
+        "_nc_m2m_transactions_primary_sources": [],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 175,
+                "exploration-drilling_id": 135
+            },
+            {
+                "source_id": 175,
+                "exploration-drilling_id": 134
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 0,
+        "exploration-drillings": 2
+    },
+    {
+        "Id": 176,
+        "Title": "Serept Website - Our History (1971-1964) Resumption of Activities",
+        "unique-identifier": "https://www.serept.com.tn/En/our-history_7_193_D62",
+        "NB": null,
+        "Source_date": "2025-07-08",
+        "author": "SEREPT",
+        "type-source": "online website ",
+        "CreatedAt": "2025-07-08 18:08:27+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 176,
+                "transactions_id": 299
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 1,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 177,
+        "Title": "Convention et Cahier des Charges pour le permis du Centre Nord Tunisien",
+        "unique-identifier": "RCT_G_ocds-591adf-3149266819",
+        "NB": "found online",
+        "Source_date": "1964-06-05",
+        "author": "SEREPT",
+        "type-source": "archival document",
+        "CreatedAt": "2025-07-08 22:05:10+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 177,
+                "transactions_id": 299
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 1,
+        "exploration-drillings": 0
+    },
+    {
+        "Id": 178,
+        "Title": "Secrets of Hydrocarbon Contracts in Tunisia",
+        "unique-identifier": "Unique Identifier - ON_TAPC_20-107-9",
+        "NB": "found online",
+        "Source_date": "2019-01-01",
+        "author": "The Tunisian Association of Public Controllers",
+        "type-source": "report",
+        "CreatedAt": "2025-07-08 22:21:23+00:00",
+        "UpdatedAt": "2025-07-10 23:02:03+00:00",
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 178,
+                "transactions_id": 300
+            },
+            {
+                "primary_sources_id": 178,
+                "transactions_id": 301
+            },
+            {
+                "primary_sources_id": 178,
+                "transactions_id": 302
+            },
+            {
+                "primary_sources_id": 178,
+                "transactions_id": 310
+            },
+            {
+                "primary_sources_id": 178,
+                "transactions_id": 311
+            },
+            {
+                "primary_sources_id": 178,
+                "transactions_id": 309
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 137
+            },
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 139
+            },
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 141
+            },
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 142
+            },
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 143
+            },
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 147
+            },
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 149
+            },
+            {
+                "source_id": 178,
+                "exploration-drilling_id": 150
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 6,
+        "exploration-drillings": 8
+    },
+    {
+        "Id": 179,
+        "Title": "Concessions d'exploitation d'hydrocarbures en Tunisie \u00e0 fin 2022. Nombre de concessions: 56",
+        "unique-identifier": "ON_EMG_2022",
+        "NB": "found online",
+        "Source_date": "2022-12-31",
+        "author": null,
+        "type-source": "report",
+        "CreatedAt": "2025-07-08 23:46:20+00:00",
+        "UpdatedAt": "2025-07-08 23:56:22+00:00",
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 179,
+                "transactions_id": 305
+            },
+            {
+                "primary_sources_id": 179,
+                "transactions_id": 304
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [
+            {
+                "source_id": 179,
+                "exploration-drilling_id": 144
+            },
+            {
+                "source_id": 179,
+                "exploration-drilling_id": 145
+            }
+        ],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 2,
+        "exploration-drillings": 2
+    },
+    {
+        "Id": 180,
+        "Title": "Convention Permis Sfax-Kerkennah",
+        "unique-identifier": "RCT_CSTC_ocds-591adf-9611382739",
+        "NB": null,
+        "Source_date": "1969-02-27",
+        "author": "CFTP",
+        "type-source": "archival document",
+        "CreatedAt": "2025-07-10 21:10:26+00:00",
+        "UpdatedAt": null,
+        "_nc_m2m_transactions_primary_sources": [
+            {
+                "primary_sources_id": 180,
+                "transactions_id": 308
+            }
+        ],
+        "_nc_m2m_exploration-dri_sources": [],
+        "_nc_m2m_discursive_oil_primary_sources": [],
+        "discursive_oils": 0,
+        "transactions": 1,
+        "exploration-drillings": 0
+    }
+]

@@ -1,0 +1,250 @@
+[
+    {
+        "Id": 1,
+        "start_date": 1961,
+        "geographic_scope": "Kmq. 1.812 - parte nord-occidentale della zona C rilasciata dalla Serept",
+        "Exploration License": "Permis du Sud",
+        "CreatedAt": "2025-07-05 23:31:36+00:00",
+        "UpdatedAt": "2025-07-10 22:10:37+00:00",
+        "granted_to": 1,
+        "granted_by": 1,
+        "convention": 1,
+        "infrastructure_linked": 1,
+        "_nc_m2m_concessions_entities": [
+            {
+                "concessions_id": 1,
+                "entity_id": 34
+            }
+        ],
+        "_nc_m2m_concessions_entity1s": [
+            {
+                "concessions_id": 1,
+                "entity_id": 100
+            }
+        ],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 298,
+                "concessions_id": 1
+            }
+        ],
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 1,
+                "infrastructure_id": 107
+            }
+        ]
+    },
+    {
+        "Id": 36,
+        "start_date": null,
+        "geographic_scope": null,
+        "Exploration License": "Sicilia",
+        "CreatedAt": "2025-07-07 18:04:33+00:00",
+        "UpdatedAt": "2025-07-10 21:50:53+00:00",
+        "granted_to": 0,
+        "granted_by": 0,
+        "convention": 0,
+        "infrastructure_linked": 1,
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_concessions_transactions": [],
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 36,
+                "infrastructure_id": 168
+            }
+        ]
+    },
+    {
+        "Id": 6,
+        "start_date": null,
+        "geographic_scope": null,
+        "Exploration License": "Algeria",
+        "CreatedAt": "2025-07-05 23:41:06+00:00",
+        "UpdatedAt": "2025-07-10 21:50:57+00:00",
+        "granted_to": 0,
+        "granted_by": 0,
+        "convention": 0,
+        "infrastructure_linked": 0,
+        "_nc_m2m_concessions_entities": [],
+        "_nc_m2m_concessions_entity1s": [],
+        "_nc_m2m_concessions_transactions": [],
+        "_nc_m2m_concessions_infrastructures": []
+    },
+    {
+        "Id": 34,
+        "start_date": 1958,
+        "geographic_scope": null,
+        "Exploration License": "El Borma",
+        "CreatedAt": "2025-07-07 17:50:57+00:00",
+        "UpdatedAt": "2025-07-10 22:06:36+00:00",
+        "granted_to": 1,
+        "granted_by": 1,
+        "convention": 0,
+        "infrastructure_linked": 1,
+        "_nc_m2m_concessions_entities": [
+            {
+                "concessions_id": 34,
+                "entity_id": 331
+            }
+        ],
+        "_nc_m2m_concessions_entity1s": [
+            {
+                "concessions_id": 34,
+                "entity_id": 100
+            }
+        ],
+        "_nc_m2m_concessions_transactions": [],
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 34,
+                "infrastructure_id": 1
+            }
+        ]
+    },
+    {
+        "Id": 7,
+        "start_date": 1960,
+        "geographic_scope": null,
+        "Exploration License": "El Borma 1960",
+        "CreatedAt": "2025-07-05 23:41:10+00:00",
+        "UpdatedAt": "2025-07-10 21:58:13+00:00",
+        "granted_to": 1,
+        "granted_by": 1,
+        "convention": 2,
+        "infrastructure_linked": 1,
+        "_nc_m2m_concessions_entities": [
+            {
+                "concessions_id": 7,
+                "entity_id": 34
+            }
+        ],
+        "_nc_m2m_concessions_entity1s": [
+            {
+                "concessions_id": 7,
+                "entity_id": 100
+            }
+        ],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 34,
+                "concessions_id": 7
+            },
+            {
+                "transactions_id": 266,
+                "concessions_id": 7
+            }
+        ],
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 7,
+                "infrastructure_id": 1
+            }
+        ]
+    },
+    {
+        "Id": 37,
+        "start_date": 1965,
+        "geographic_scope": "Kmq. 11",
+        "Exploration License": "Tunisie Centre Nord",
+        "CreatedAt": "2025-07-07 18:23:50+00:00",
+        "UpdatedAt": "2025-07-10 22:09:32+00:00",
+        "granted_to": 2,
+        "granted_by": 1,
+        "convention": 1,
+        "infrastructure_linked": 3,
+        "_nc_m2m_concessions_entities": [
+            {
+                "concessions_id": 37,
+                "entity_id": 176
+            },
+            {
+                "concessions_id": 37,
+                "entity_id": 331
+            }
+        ],
+        "_nc_m2m_concessions_entity1s": [
+            {
+                "concessions_id": 37,
+                "entity_id": 100
+            }
+        ],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 299,
+                "concessions_id": 37
+            }
+        ],
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 37,
+                "infrastructure_id": 169
+            },
+            {
+                "concessions_id": 37,
+                "infrastructure_id": 170
+            },
+            {
+                "concessions_id": 37,
+                "infrastructure_id": 171
+            }
+        ]
+    },
+    {
+        "Id": 47,
+        "start_date": 1976,
+        "geographic_scope": null,
+        "Exploration License": "Sfax-Kerkennah",
+        "CreatedAt": "2025-07-10 20:54:37+00:00",
+        "UpdatedAt": "2025-07-10 23:01:50+00:00",
+        "granted_to": 1,
+        "granted_by": 1,
+        "convention": 4,
+        "infrastructure_linked": 3,
+        "_nc_m2m_concessions_entities": [
+            {
+                "concessions_id": 47,
+                "entity_id": 335
+            }
+        ],
+        "_nc_m2m_concessions_entity1s": [
+            {
+                "concessions_id": 47,
+                "entity_id": 100
+            }
+        ],
+        "_nc_m2m_concessions_transactions": [
+            {
+                "transactions_id": 308,
+                "concessions_id": 47
+            },
+            {
+                "transactions_id": 311,
+                "concessions_id": 47
+            },
+            {
+                "transactions_id": 309,
+                "concessions_id": 47
+            },
+            {
+                "transactions_id": 310,
+                "concessions_id": 47
+            }
+        ],
+        "_nc_m2m_concessions_infrastructures": [
+            {
+                "concessions_id": 47,
+                "infrastructure_id": 174
+            },
+            {
+                "concessions_id": 47,
+                "infrastructure_id": 173
+            },
+            {
+                "concessions_id": 47,
+                "infrastructure_id": 176
+            }
+        ]
+    }
+]
