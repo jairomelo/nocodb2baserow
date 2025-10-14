@@ -208,7 +208,7 @@ def main():
     print(f"{'='*60}")
     
     # Initialize creator without JWT token first
-    creator = BaserowTableCreator(BASEROW_BASE_URL, DATABASE_ID, None, API_TOKEN)
+    creator = BaserowTableCreator(BASEROW_BASE_URL, DATABASE_ID, None, API_TOKEN) # type: ignore
     
     # Always get a fresh JWT token using email/password
     if USER_EMAIL and USER_PASSWORD:
