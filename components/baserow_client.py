@@ -3,7 +3,7 @@ Baserow API Client - Generic REST API wrapper with rate limiting
 """
 
 import requests
-from typing import Dict, Any, List, Optional
+from typing import Dict, List, Optional
 import time
 
 
