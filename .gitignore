@@ -4,3 +4,4 @@
 legacy/
 MIGRATION*
 test*
+__pycache__/
