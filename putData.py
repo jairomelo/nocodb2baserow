@@ -152,24 +152,29 @@ class CamillaMigrationManager:
             ("Location_data.json", "Location"),
             ("Source_data.json", "Source"),
             
-            # Phase 2: Core entities (must come before Role since Role links to Entity)
+            # Phase 2: Core entities (Entity imports first, then Licenses can link to it)
             ("Entity_data.json", "Entity"),
             ("People_data.json", "People"),
             ("Role_data.json", "Role"),
             
-            # Phase 3: Infrastructure and licensing
-            ("Infrastructure_data.json", "Infrastructure"),
+            # Phase 3: Licenses (imports after Entity so it can create the concession links)
             ("Licenses_data.json", "Licenses"),
+            
+            # Phase 4: Infrastructure and related
+            ("Infrastructure_data.json", "Infrastructure"),
             ("Ecosystem_data.json", "Ecosystem"),
             
-            # Phase 4: Transactional data
+            # Phase 5: Transactional data
             ("Transactions_data.json", "Transactions"),
             ("Actions-timeline_data.json", "Actions-timeline"),
             
-            # Phase 5: Communication and events
+            # Phase 6: Communication and events
             ("Discursive-oil_data.json", "Discursive-oil"),
             ("Related-events_data.json", "Related-events"),
-            ("Memory_data.json", "Memory")
+            ("Memory_data.json", "Memory"),
+            
+            # Phase 7: Second pass for Entity to populate concessions relationships
+            ("Entity_data.json", "Entity_Concessions_Update")
         ]
 
     def ensure_relationship_fields(self):
@@ -864,20 +869,12 @@ class CamillaMigrationManager:
 
             # Entity extra links
             'Entity': {
-                '_nc_m2m_concessions_entities': {
-                    'field_name': 'concessions_grantee',
-                    'source_table': 'Licenses',
-                    'id_field': 'concessions_id'
-                },
+                # Note: concessions relationships will be populated when we re-import Entity 
+                # after Licenses (see two-pass strategy in import order)
                 '_nc_m2m_role_entities': {
                     'field_name': 'Role',
                     'source_table': 'Role',
                     'id_field': 'role_id',
-                },
-                '_nc_m2m_concessions_entity1s': {
-                    'field_name': 'concessions_granter',
-                    'source_table': 'Licenses',
-                    'id_field': 'concessions_id'
                 },
                 '_nc_m2m_entity_entities1': {
                     'field_name': 'is_part_of',
@@ -888,6 +885,20 @@ class CamillaMigrationManager:
                     'field_name': 'linked_actions_timeline',
                     'source_table': 'Actions-timeline',
                     'id_field': 'actions-timeline_id'
+                }
+            },
+            
+            # Entity_Concessions_Update - Second pass to update only concessions relationships
+            'Entity_Concessions_Update': {
+                '_nc_m2m_concessions_entities': {
+                    'field_name': 'concessions_grantee',
+                    'source_table': 'Licenses',
+                    'id_field': 'concessions_id'
+                },
+                '_nc_m2m_concessions_entity1s': {
+                    'field_name': 'concessions_granter',
+                    'source_table': 'Licenses',
+                    'id_field': 'concessions_id'
                 }
             },
 
@@ -967,17 +978,23 @@ class CamillaMigrationManager:
         """Import data from JSON file to Baserow table"""
         print(f"\n🔄 Processing {table_name}...")
         
-        # Get table info
-        table_id = self.table_mappings.get(table_name)
+        # Check if this is a special update-only pass
+        is_update_only = table_name.endswith('_Update')
+        base_table_name = table_name.replace('_Concessions_Update', '').replace('_Update', '')
+        
+        # Get table info (use base table name for update passes)
+        table_id = self.table_mappings.get(base_table_name if is_update_only else table_name)
         if not table_id:
-            print(f"❌ Table '{table_name}' not found in mappings")
+            print(f"❌ Table '{base_table_name if is_update_only else table_name}' not found in mappings")
             return False
         
-        # Clear existing data if requested
-        if clear_table and not dry_run:
+        # Clear existing data if requested (but NOT for update-only passes!)
+        if clear_table and not dry_run and not is_update_only:
             print(f"  🗑️  Clearing existing data...")
             deleted_count = self.client.clear_table(table_id)
             print(f"  🗑️  Deleted {deleted_count} existing records")
+        elif is_update_only:
+            print(f"  🔄 Update-only pass - preserving existing records")
         
         # Load JSON data
         try:
@@ -1016,6 +1033,27 @@ class CamillaMigrationManager:
             try:
                 # Extract relationships first
                 relationships_data = self.extract_relationships(item)
+                
+                # For update-only passes, skip record creation and only update relationships
+                if is_update_only:
+                    old_id = item.get('Id')
+                    if old_id and relationships_data:
+                        # Get the Baserow ID for this record
+                        baserow_id = self.id_mappings.get(base_table_name, {}).get(old_id)
+                        if baserow_id:
+                            baserow_relationships = self.map_relationships_to_baserow(
+                                relationships_data, table_name
+                            )
+                            if baserow_relationships:
+                                self.client.update_row(table_id, baserow_id, baserow_relationships)
+                                success_count += 1
+                                print(f"  ✅ Record {i}/{len(items)} - Updated concessions relationships")
+                            else:
+                                print(f"  ⏭️  Record {i}/{len(items)} - No concessions to update")
+                        else:
+                            error_count += 1
+                            print(f"  ❌ Record {i}/{len(items)} - Baserow ID not found for old ID {old_id}")
+                    continue
                 
                 # Transform the core data
                 cleaned_data = self.transform_record_data(item, field_mapping, table_name)
