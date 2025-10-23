@@ -17,7 +17,6 @@ dotenv.load_dotenv()
 BASEROW_BASE_URL =  os.getenv("BASEROW_BASE_URL")  
 DATABASE_ID = os.getenv("DATABASE_ID")  
 API_TOKEN = os.getenv("API_TOKEN")  
-JWT_TOKEN = os.getenv("JWT_TOKEN") 
 USER_EMAIL = os.getenv("USER_EMAIL")
 USER_PASSWORD = os.getenv("USER_PASSWORD")
 
