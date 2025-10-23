@@ -5,3 +5,4 @@ legacy/
 MIGRATION*
 test*
 __pycache__/
+.vscode/
