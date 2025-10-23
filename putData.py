@@ -150,12 +150,12 @@ class CamillaMigrationManager:
         self.import_order = [
             # Phase 1: Foundation tables (no dependencies)
             ("Location_data.json", "Location"),
-            ("Role_data.json", "Role"),
             ("Source_data.json", "Source"),
             
-            # Phase 2: Core entities
-            ("People_data.json", "People"),
+            # Phase 2: Core entities (must come before Role since Role links to Entity)
             ("Entity_data.json", "Entity"),
+            ("People_data.json", "People"),
+            ("Role_data.json", "Role"),
             
             # Phase 3: Infrastructure and licensing
             ("Infrastructure_data.json", "Infrastructure"),
