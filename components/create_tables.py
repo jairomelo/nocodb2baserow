@@ -138,44 +138,90 @@ def add_relationship_fields(creator: BaserowTableCreator, schemas: Dict[str, Dic
         "Infrastructure": [
             {"name": "linked_location", "type": "link_row", "link_row_table_id": "Location"},
             {"name": "linked_entities", "type": "link_row", "link_row_table_id": "Entity"},
+            # Licenses/Concessions connected to infrastructure
+            {"name": "linked_licenses", "type": "link_row", "link_row_table_id": "Licenses"},
         ],
-        
+
+        # Transactions relationships
         "Transactions": [
             {"name": "linked_entities", "type": "link_row", "link_row_table_id": "Entity"},
             {"name": "linked_people", "type": "link_row", "link_row_table_id": "People"},
             {"name": "linked_sources", "type": "link_row", "link_row_table_id": "Source"},
+            # Link to licenses (aka concessions) and actions timeline
+            {"name": "linked_licenses", "type": "link_row", "link_row_table_id": "Licenses"},
+            {"name": "linked_actions_timeline", "type": "link_row", "link_row_table_id": "Actions_Timeline"},
+            # Discursive items related to transaction
+            {"name": "linked_discursive_oil", "type": "link_row", "link_row_table_id": "Discursive_Oil"},
         ],
-        
+
+        # Discursive_Oil relationships
         "Discursive_Oil": [
             {"name": "linked_author", "type": "link_row", "link_row_table_id": "People"},
             {"name": "linked_recipient", "type": "link_row", "link_row_table_id": "People"},
             {"name": "linked_sources", "type": "link_row", "link_row_table_id": "Source"},
+            {"name": "linked_transactions", "type": "link_row", "link_row_table_id": "Transactions"},
+            {"name": "linked_infrastructures", "type": "link_row", "link_row_table_id": "Infrastructure"},
+            {"name": "linked_entities", "type": "link_row", "link_row_table_id": "Entity"},
         ],
-        
-        # NEW: People relationship fields
+
+        # People relationship fields
         "People": [
             {"name": "linked_roles", "type": "link_row", "link_row_table_id": "Role"},
             {"name": "linked_related_events", "type": "link_row", "link_row_table_id": "Related_Events"},
             {"name": "linked_actions_timeline", "type": "link_row", "link_row_table_id": "Actions_Timeline"},
             {"name": "linked_transactions", "type": "link_row", "link_row_table_id": "Transactions"},
         ],
-        
-        # NEW: Role relationship fields  
+
+        # Role relationship fields  
         "Role": [
             {"name": "linked_people", "type": "link_row", "link_row_table_id": "People"},
             {"name": "linked_entities", "type": "link_row", "link_row_table_id": "Entity"},
             {"name": "linked_locations", "type": "link_row", "link_row_table_id": "Location"},
         ],
-        
-        # NEW: Related-events relationship fields
+
+        # Related-events relationship fields
         "Related_Events": [
             {"name": "linked_people", "type": "link_row", "link_row_table_id": "People"},
             {"name": "linked_infrastructures", "type": "link_row", "link_row_table_id": "Infrastructure"},
         ],
-        
-        # NEW: Actions-timeline relationship fields
+
+        # Actions-timeline relationship fields (exploration/production timeline)
         "Actions_Timeline": [
             {"name": "linked_people", "type": "link_row", "link_row_table_id": "People"},
+            {"name": "linked_infrastructures", "type": "link_row", "link_row_table_id": "Infrastructure"},
+            {"name": "linked_entities", "type": "link_row", "link_row_table_id": "Entity"},
+            {"name": "linked_transactions", "type": "link_row", "link_row_table_id": "Transactions"},
+            {"name": "linked_ecosystem", "type": "link_row", "link_row_table_id": "Ecosystem"},
+            {"name": "linked_sources", "type": "link_row", "link_row_table_id": "Source"},
+        ],
+
+        # Licenses (aka Concessions) relationships
+        "Licenses": [
+            {"name": "granted_to", "type": "link_row", "link_row_table_id": "Entity"},
+            {"name": "granted_by", "type": "link_row", "link_row_table_id": "Entity"},
+            {"name": "linked_transactions", "type": "link_row", "link_row_table_id": "Transactions"},
+            {"name": "linked_infrastructures", "type": "link_row", "link_row_table_id": "Infrastructure"},
+        ],
+
+        # Entity extra relationships
+        "Entity": [
+            {"name": "linked_actions_timeline", "type": "link_row", "link_row_table_id": "Actions_Timeline"},
+            # self-referential: parent/subsidiary
+            {"name": "is_part_of", "type": "link_row", "link_row_table_id": "Entity"},
+            # optional shortcuts for concessions on entity side
+            {"name": "concessions_grantee", "type": "link_row", "link_row_table_id": "Licenses"},
+            {"name": "concessions_granter", "type": "link_row", "link_row_table_id": "Licenses"},
+        ],
+
+        # Source convenience relationship to exploration-drillings (Actions_Timeline)
+        "Source": [
+            {"name": "exploration_drillings", "type": "link_row", "link_row_table_id": "Actions_Timeline"},
+        ],
+
+        # Ecosystem relationships
+        "Ecosystem": [
+            {"name": "linked_infrastructures", "type": "link_row", "link_row_table_id": "Infrastructure"},
+            {"name": "linked_actions_timeline", "type": "link_row", "link_row_table_id": "Actions_Timeline"},
         ],
     }
     

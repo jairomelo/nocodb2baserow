@@ -121,3 +121,35 @@ class BaserowClient:
         """Get all tables in a database"""
         response = self._make_request('GET', f'/database/tables/database/{database_id}/', use_jwt=True)
         return response.json()
+
+    # --------------------
+    # Structural operations
+    # --------------------
+    def create_field(self, table_id: int, field_config: Dict) -> Optional[Dict]:
+        """Create a field in a table (requires JWT). Returns created field JSON or None."""
+        try:
+            response = self._make_request('POST', f'/database/fields/table/{table_id}/', use_jwt=True, json=field_config)
+            return response.json()
+        except Exception as e:
+            print(f"❌ Error creating field '{field_config.get('name')}' on table {table_id}: {e}")
+            return None
+
+    def create_link_field(
+        self,
+        table_id: int,
+        name: str,
+        target_table_id: int,
+        related_field_name: Optional[str] = None,
+    ) -> Optional[Dict]:
+        """
+        Convenience to create a link_row field. If related_field_name is provided, it sets the
+        auto-created reverse field's name on the target table.
+        """
+        field_config: Dict = {
+            "type": "link_row",
+            "name": name,
+            "link_row_table_id": target_table_id,
+        }
+        if related_field_name:
+            field_config["link_row_related_field_name"] = related_field_name
+        return self.create_field(table_id, field_config)

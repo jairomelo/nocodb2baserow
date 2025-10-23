@@ -171,6 +171,133 @@ class CamillaMigrationManager:
             ("Related-events_data.json", "Related-events"),
             ("Memory_data.json", "Memory")
         ]
+
+    def ensure_relationship_fields(self):
+        """Ensure required link-to-table fields exist across tables before importing relationships."""
+        if not self.jwt_token:
+            print("\n⚠️  Cannot create missing link fields without JWT credentials (USER_EMAIL/USER_PASSWORD).")
+            print("   Skipping field creation step. If relationships don’t appear, run again with credentials.")
+            return
+
+        # Desired relationships by table (field_name -> target_table)
+        desired_relationships = {
+            # Role
+            "Role": [
+                ("linked_people", "People"),
+                ("linked_entities", "Entity"),
+                ("linked_locations", "Location"),
+            ],
+
+            # Source
+            "Source": [
+                ("exploration_drillings", "Actions-timeline"),
+            ],
+
+            # Entity
+            "Entity": [
+                ("linked_actions_timeline", "Actions-timeline"),
+                ("is_part_of", "Entity"),
+                ("concessions_grantee", "Licenses"),
+                ("concessions_granter", "Licenses"),
+            ],
+
+            # Infrastructure
+            "Infrastructure": [
+                ("linked_location", "Location"),
+                ("linked_entities", "Entity"),
+                ("linked_discursive_oil", "Discursive-oil"),
+                ("linked_ecosystem", "Ecosystem"),
+                ("linked_licenses", "Licenses"),
+                ("linked_actions_timeline", "Actions-timeline"),
+            ],
+
+            # Licenses (aka Concessions)
+            "Licenses": [
+                ("granted_to", "Entity"),
+                ("granted_by", "Entity"),
+                ("linked_transactions", "Transactions"),
+                ("linked_infrastructures", "Infrastructure"),
+            ],
+
+            # Ecosystem
+            "Ecosystem": [
+                ("linked_infrastructures", "Infrastructure"),
+                ("linked_actions_timeline", "Actions-timeline"),
+            ],
+
+            # Transactions
+            "Transactions": [
+                ("linked_entities", "Entity"),
+                ("linked_people", "People"),
+                ("linked_sources", "Source"),
+                ("linked_licenses", "Licenses"),
+                ("linked_actions_timeline", "Actions-timeline"),
+                ("linked_discursive_oil", "Discursive-oil"),
+            ],
+
+            # Actions timeline
+            "Actions-timeline": [
+                ("linked_people", "People"),
+                ("linked_infrastructures", "Infrastructure"),
+                ("linked_entities", "Entity"),
+                ("linked_transactions", "Transactions"),
+                ("linked_ecosystem", "Ecosystem"),
+                ("linked_sources", "Source"),
+            ],
+
+            # Discursive
+            "Discursive-oil": [
+                ("linked_author", "People"),
+                ("linked_recipient", "People"),
+                ("linked_sources", "Source"),
+                ("linked_transactions", "Transactions"),
+                ("linked_infrastructures", "Infrastructure"),
+                ("linked_entities", "Entity"),
+            ],
+
+            # Related-events (keep for completeness)
+            "Related-events": [
+                ("linked_people", "People"),
+                ("linked_infrastructures", "Infrastructure"),
+            ],
+        }
+
+        print("\n🧩 Ensuring required link fields exist...")
+        created_count = 0
+        for table_name, fields in desired_relationships.items():
+            table_id = self.table_mappings.get(table_name)
+            schema = self.table_schemas.get(table_name)
+            if not table_id or not schema:
+                continue
+
+            for field_name, target_table_name in fields:
+                # Skip if field already exists
+                if schema.get_field_by_name(field_name):
+                    continue
+
+                target_table_id = self.table_mappings.get(target_table_name)
+                if not target_table_id:
+                    print(f"  ⚠️  Target table '{target_table_name}' not found for {table_name}.{field_name}")
+                    continue
+
+                # Create link field
+                created = self.client.create_link_field(
+                    table_id=table_id,
+                    name=field_name,
+                    target_table_id=target_table_id,
+                )
+                if created:
+                    created_count += 1
+                    # Refresh schema cache for this table
+                    self.table_schemas[table_name] = self.schema_analyzer.get_table_schema(table_id, table_name)
+                    print(f"  ➕ Created '{field_name}' on {table_name} → {target_table_name}")
+                else:
+                    print(f"  ❌ Failed to create '{field_name}' on {table_name}")
+
+        if created_count:
+            print(f"✅ Created {created_count} missing link fields")
+        else:
+            print("✅ No missing link fields detected")
     
     def discover_tables(self):
         """Discover actual table IDs from the database"""
@@ -286,8 +413,7 @@ class CamillaMigrationManager:
             
             # Role mappings
             "Role": {
-                "role": "Name",  # Primary field
-                "title": "title",
+                "title": "Name",  # Primary field
                 "description": "description",
                 "department": "department",
                 "subdepartment": "subdepartment",
@@ -319,12 +445,12 @@ class CamillaMigrationManager:
             "Licenses": {
                 "start-date": "start_date",
                 "geographic_scope": "geographic_scope",
-                "Exploration License": "exploration_license"
+                "Exploration License": "Name",  # Primary field
             },
             
             # Ecosystem mappings
             "Ecosystem": {
-                "title": "Name",  # Primary field
+                "Title": "Name",  # Primary field
                 "consequence_type": "consequence_type",
                 "consequence_positive_negative": "consequence_positive_negative",
                 "consequence_communities": "consequence_communities",
@@ -342,7 +468,7 @@ class CamillaMigrationManager:
             
             # Actions-timeline mappings
             "Actions-timeline": {
-                "title": "Name",  # Primary field
+                "Title": "Name",  # Primary field
                 "start-date": "start_date",
                 "end-date": "end_date",
                 "product": "product",
@@ -541,6 +667,11 @@ class CamillaMigrationManager:
                     'field_name': 'linked_related_events',
                     'source_table': 'Related-events',
                     'id_field': 'related_events_id'
+                },
+                '_nc_m2m_concessions_infrastructures': {
+                    'field_name': 'linked_licenses',
+                    'source_table': 'Licenses',
+                    'id_field': 'concessions_id'
                 }
             },
             
@@ -565,6 +696,16 @@ class CamillaMigrationManager:
                     'field_name': 'linked_discursive_oil',
                     'source_table': 'Discursive-oil',
                     'id_field': 'discursive_oil_id'
+                },
+                '_nc_m2m_concessions_transactions': {
+                    'field_name': 'linked_licenses',
+                    'source_table': 'Licenses',
+                    'id_field': 'concessions_id'
+                },
+                '_nc_m2m_exploration-dri_transactions1s': {
+                    'field_name': 'linked_actions_timeline',
+                    'source_table': 'Actions-timeline',
+                    'id_field': 'exploration-drilling_id'
                 }
             },
             
@@ -583,6 +724,21 @@ class CamillaMigrationManager:
                     'field_name': 'linked_sources',
                     'source_table': 'Source',
                     'id_field': 'primary_sources_id'
+                },
+                '_nc_m2m_infrastructure_discursive_oils': {
+                    'field_name': 'linked_infrastructures',
+                    'source_table': 'Infrastructure',
+                    'id_field': 'infrastructure_id'
+                },
+                '_nc_m2m_transactions_discursive_oils': {
+                    'field_name': 'linked_transactions',
+                    'source_table': 'Transactions',
+                    'id_field': 'transactions_id'
+                },
+                '_nc_m2m_discursive_oil_entities': {
+                    'field_name': 'linked_entities',
+                    'source_table': 'Entity',
+                    'id_field': 'entity_id'
                 }
             },
             
@@ -635,6 +791,31 @@ class CamillaMigrationManager:
                     'field_name': 'linked_people',
                     'source_table': 'People',
                     'id_field': 'people_id'
+                },
+                '_nc_m2m_exploration-pro_oil_infrastructs': {
+                    'field_name': 'linked_infrastructures',
+                    'source_table': 'Infrastructure',
+                    'id_field': 'oil_infrastructure_id'
+                },
+                '_nc_m2m_actions-timelin_entities': {
+                    'field_name': 'linked_entities',
+                    'source_table': 'Entity',
+                    'id_field': 'entity_id'
+                },
+                '_nc_m2m_exploration-dri_transactions1s': {
+                    'field_name': 'linked_transactions',
+                    'source_table': 'Transactions',
+                    'id_field': 'transactions_id'
+                },
+                '_nc_m2m_exploration-pro_ecosystem_conses': {
+                    'field_name': 'linked_ecosystem',
+                    'source_table': 'Ecosystem',
+                    'id_field': 'ecosystem_consequences_id'
+                },
+                '_nc_m2m_exploration-dri_sources': {
+                    'field_name': 'linked_sources',
+                    'source_table': 'Source',
+                    'id_field': 'source_id'
                 }
             },
             
@@ -655,7 +836,83 @@ class CamillaMigrationManager:
             # Memory relationships (if relationship fields exist)
             'Memory': {
                 # Note: These relationships would need corresponding fields created in Baserow
-            }
+            },
+
+            # Licenses (Concessions)
+            'Licenses': {
+                '_nc_m2m_concessions_entities': {
+                    'field_name': 'granted_to',
+                    'source_table': 'Entity',
+                    'id_field': 'entity_id'
+                },
+                '_nc_m2m_concessions_entity1s': {
+                    'field_name': 'granted_by',
+                    'source_table': 'Entity',
+                    'id_field': 'entity_id'
+                },
+                '_nc_m2m_concessions_transactions': {
+                    'field_name': 'linked_transactions',
+                    'source_table': 'Transactions',
+                    'id_field': 'transactions_id'
+                },
+                '_nc_m2m_concessions_infrastructures': {
+                    'field_name': 'linked_infrastructures',
+                    'source_table': 'Infrastructure',
+                    'id_field': 'infrastructure_id'
+                }
+            },
+
+            # Entity extra links
+            'Entity': {
+                '_nc_m2m_concessions_entities': {
+                    'field_name': 'concessions_grantee',
+                    'source_table': 'Licenses',
+                    'id_field': 'concessions_id'
+                },
+                '_nc_m2m_role_entities': {
+                    'field_name': 'Role',
+                    'source_table': 'Role',
+                    'id_field': 'role_id',
+                },
+                '_nc_m2m_concessions_entity1s': {
+                    'field_name': 'concessions_granter',
+                    'source_table': 'Licenses',
+                    'id_field': 'concessions_id'
+                },
+                '_nc_m2m_entity_entities1': {
+                    'field_name': 'is_part_of',
+                    'source_table': 'Entity',
+                    'id_field': 'entity1_id'
+                },
+                '_nc_m2m_actions-timelin_entities': {
+                    'field_name': 'linked_actions_timeline',
+                    'source_table': 'Actions-timeline',
+                    'id_field': 'actions-timeline_id'
+                }
+            },
+
+            # Ecosystem
+            'Ecosystem': {
+                '_nc_m2m_ecosystem_conse_infrastructures': {
+                    'field_name': 'linked_infrastructures',
+                    'source_table': 'Infrastructure',
+                    'id_field': 'infrastructure_id'
+                },
+                '_nc_m2m_exploration-pro_ecosystem_conses': {
+                    'field_name': 'linked_actions_timeline',
+                    'source_table': 'Actions-timeline',
+                    'id_field': 'exploration-production_id'
+                }
+            },
+
+            # Source
+            'Source': {
+                '_nc_m2m_exploration-dri_sources': {
+                    'field_name': 'exploration_drillings',
+                    'source_table': 'Actions-timeline',
+                    'id_field': 'exploration-drilling_id'
+                }
+            },
         }
         
         # Get mappings for this table
@@ -826,6 +1083,9 @@ class CamillaMigrationManager:
         
         # Initialize schemas
         self.initialize_schemas()
+
+        # Ensure required relationship fields exist before importing data
+        self.ensure_relationship_fields()
         
         # Filter import order if specific table requested
         import_order = self.import_order
